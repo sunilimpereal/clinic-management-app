@@ -1,0 +1,145 @@
+[
+  {
+    "value": {
+      "numericValue": "78.0"
+    },
+    "data_type": "BLOOD_PRESSURE_DIASTOLIC",
+    "unit": "MILLIMETER_OF_MERCURY",
+    "date_from": "2023-06-19T15:14:00.000",
+    "date_to": "2023-06-19T15:14:00.000",
+    "platform_type": "ios",
+    "device_id": "964A509D-82CE-4262-9F3C-D04B057AF24C",
+    "source_id": "com.apple.Health",
+    "source_name": "Health"
+  },
+  {
+    "value": {
+      "numericValue": "82.0"
+    },
+    "data_type": "BLOOD_PRESSURE_DIASTOLIC",
+    "unit": "MILLIMETER_OF_MERCURY",
+    "date_from": "2023-06-19T14:48:00.000",
+    "date_to": "2023-06-19T14:48:00.000",
+    "platform_type": "ios",
+    "device_id": "964A509D-82CE-4262-9F3C-D04B057AF24C",
+    "source_id": "com.apple.Health",
+    "source_name": "Health"
+  },
+  {
+    "value": {
+      "numericValue": "80.0"
+    },
+    "data_type": "BLOOD_PRESSURE_DIASTOLIC",
+    "unit": "MILLIMETER_OF_MERCURY",
+    "date_from": "2023-06-19T14:33:00.000",
+    "date_to": "2023-06-19T14:33:00.000",
+    "platform_type": "ios",
+    "device_id": "964A509D-82CE-4262-9F3C-D04B057AF24C",
+    "source_id": "com.apple.Health",
+    "source_name": "Health"
+  },
+  {
+    "value": {
+      "numericValue": "121.0"
+    },
+    "data_type": "BLOOD_PRESSURE_SYSTOLIC",
+    "unit": "MILLIMETER_OF_MERCURY",
+    "date_from": "2023-06-19T15:14:00.000",
+    "date_to": "2023-06-19T15:14:00.000",
+    "platform_type": "ios",
+    "device_id": "964A509D-82CE-4262-9F3C-D04B057AF24C",
+    "source_id": "com.apple.Health",
+    "source_name": "Health"
+  },
+  {
+    "value": {
+      "numericValue": "118.0"
+    },
+    "data_type": "BLOOD_PRESSURE_SYSTOLIC",
+    "unit": "MILLIMETER_OF_MERCURY",
+    "date_from": "2023-06-19T14:48:00.000",
+    "date_to": "2023-06-19T14:48:00.000",
+    "platform_type": "ios",
+    "device_id": "964A509D-82CE-4262-9F3C-D04B057AF24C",
+    "source_id": "com.apple.Health",
+    "source_name": "Health"
+  },
+  {
+    "value": {
+      "numericValue": "120.0"
+    },
+    "data_type": "BLOOD_PRESSURE_SYSTOLIC",
+    "unit": "MILLIMETER_OF_MERCURY",
+    "date_from": "2023-06-19T14:33:00.000",
+    "date_to": "2023-06-19T14:33:00.000",
+    "platform_type": "ios",
+    "device_id": "964A509D-82CE-4262-9F3C-D04B057AF24C",
+    "source_id": "com.apple.Health",
+    "source_name": "Health"
+  },
+  {
+    "value": {
+      "numericValue": "85.0"
+    },
+    "data_type": "HEART_RATE",
+    "unit": "BEATS_PER_MINUTE",
+    "date_from": "2023-06-19T15:49:00.000",
+    "date_to": "2023-06-19T15:49:00.000",
+    "platform_type": "ios",
+    "device_id": "964A509D-82CE-4262-9F3C-D04B057AF24C",
+    "source_id": "com.apple.Health",
+    "source_name": "Health"
+  },
+  {
+    "value": {
+      "numericValue": "80.0"
+    },
+    "data_type": "HEART_RATE",
+    "unit": "BEATS_PER_MINUTE",
+    "date_from": "2023-06-19T15:49:00.000",
+    "date_to": "2023-06-19T15:49:00.000",
+    "platform_type": "ios",
+    "device_id": "964A509D-82CE-4262-9F3C-D04B057AF24C",
+    "source_id": "com.apple.Health",
+    "source_name": "Health"
+  },
+  {
+    "value": {
+      "numericValue": "85.0"
+    },
+    "data_type": "HEART_RATE",
+    "unit": "BEATS_PER_MINUTE",
+    "date_from": "2023-06-19T15:06:00.000",
+    "date_to": "2023-06-19T15:06:00.000",
+    "platform_type": "ios",
+    "device_id": "964A509D-82CE-4262-9F3C-D04B057AF24C",
+    "source_id": "com.apple.Health",
+    "source_name": "Health"
+  },
+  {
+    "value": {
+      "numericValue": "75.0"
+    },
+    "data_type": "HEART_RATE",
+    "unit": "BEATS_PER_MINUTE",
+    "date_from": "2023-06-19T14:49:00.000",
+    "date_to": "2023-06-19T14:49:00.000",
+    "platform_type": "ios",
+    "device_id": "964A509D-82CE-4262-9F3C-D04B057AF24C",
+    "source_id": "com.apple.Health",
+    "source_name": "Health"
+  },
+  {
+    "value": {
+      "numericValue": "81.0"
+    },
+    "data_type": "HEART_RATE",
+    "unit": "BEATS_PER_MINUTE",
+    "date_from": "2023-06-19T13:50:00.000",
+    "date_to": "2023-06-19T13:50:00.000",
+    "platform_type": "ios",
+    "device_id": "964A509D-82CE-4262-9F3C-D04B057AF24C",
+    "source_id": "com.apple.Health",
+    "source_name": "Health"
+  }
+]
