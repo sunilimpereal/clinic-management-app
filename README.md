@@ -1,17 +1,3 @@
 # clinic_management_app
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# clinic-management-app
+![Screenshot](https://github.com/sunilimpereal/clinic-management-app/assets/55178133/f01b51ce-3c41-4fb2-9749-96d4b970538a) ![Screenshot](https://github.com/sunilimpereal/clinic-management-app/assets/55178133/13650f2d-e839-487b-93bb-4dc8e465ca86) ![Screenshot](https://github.com/sunilimpereal/clinic-management-app/assets/55178133/d291ff20-3f15-446c-a465-2f66831083ea) ![Screenshot](https://github.com/sunilimpereal/clinic-management-app/assets/55178133/b435271d-2f0a-487b-8eb3-522acf6d9396) ![Screenshot](https://github.com/sunilimpereal/clinic-management-app/assets/55178133/7dc98042-d5a7-4e98-a071-810e867a7306)
