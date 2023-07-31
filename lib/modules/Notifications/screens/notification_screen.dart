@@ -2,13 +2,13 @@ import 'dart:developer';
 
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
-import 'package:jatya_patient_mobile/common_components/widgets/common_drawer.dart';
-import 'package:jatya_patient_mobile/common_components/widgets/error_alert_dialog.dart';
-import 'package:jatya_patient_mobile/modules/Notifications/bloc/notification_bloc.dart';
-import 'package:jatya_patient_mobile/modules/Notifications/models/notification_model.dart';
-import 'package:jatya_patient_mobile/modules/Notifications/widgets/custompopup.dart';
-import 'package:jatya_patient_mobile/modules/Notifications/widgets/notificattion_tile.dart';
-import 'package:jatya_patient_mobile/utils/constants/color_konstants.dart';
+import 'package:clinic_app/common_components/widgets/common_drawer.dart';
+import 'package:clinic_app/common_components/widgets/error_alert_dialog.dart';
+import 'package:clinic_app/modules/Notifications/bloc/notification_bloc.dart';
+import 'package:clinic_app/modules/Notifications/models/notification_model.dart';
+import 'package:clinic_app/modules/Notifications/widgets/custompopup.dart';
+import 'package:clinic_app/modules/Notifications/widgets/notificattion_tile.dart';
+import 'package:clinic_app/utils/constants/color_konstants.dart';
 import '../services/notification_services.dart';
 
 class NotificationScreen extends StatefulWidget {

@@ -1,6 +1,6 @@
-import 'package:jatya_patient_mobile/modules/search/models/clinic_response.dart';
-import 'package:jatya_patient_mobile/modules/search/models/doctor_response.dart';
-import 'package:jatya_patient_mobile/modules/search/models/medicine_response.dart';
+import 'package:clinic_app/modules/search/models/clinic_response.dart';
+import 'package:clinic_app/modules/search/models/doctor_response.dart';
+import 'package:clinic_app/modules/search/models/medicine_response.dart';
 
 abstract class SearchState {}
 

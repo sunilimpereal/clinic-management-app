@@ -6,7 +6,7 @@ import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/src/widgets/framework.dart';
 import 'package:flutter/src/widgets/placeholder.dart';
-import 'package:jatya_patient_mobile/modules/MyPrescription/models/prescription_deatils/prescription_details.dart';
+import 'package:clinic_app/modules/MyPrescription/models/prescription_deatils/prescription_details.dart';
 import 'package:url_launcher/url_launcher_string.dart';
 
 import '../../../../common_components/widgets/common_drawer.dart';

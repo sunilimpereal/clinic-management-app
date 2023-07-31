@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:jatya_patient_mobile/modules/Reports/models/get_recent_report_response_model.dart';
-import 'package:jatya_patient_mobile/modules/Reports/screens/latest_reports_tabs/report.dart';
+import 'package:clinic_app/modules/Reports/models/get_recent_report_response_model.dart';
+import 'package:clinic_app/modules/Reports/screens/latest_reports_tabs/report.dart';
 
 import '../../../utils/constants/color_konstants.dart';
 

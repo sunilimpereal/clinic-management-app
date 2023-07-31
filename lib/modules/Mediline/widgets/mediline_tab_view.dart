@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:jatya_patient_mobile/modules/Mediline/models/get_appointmens_response.dart';
-import 'package:jatya_patient_mobile/modules/Mediline/widgets/clinic_appointments_tabview.dart';
+import 'package:clinic_app/modules/Mediline/models/get_appointmens_response.dart';
+import 'package:clinic_app/modules/Mediline/widgets/clinic_appointments_tabview.dart';
 
 import '../../NewAppointment/model/get_clinic_detail_response.dart';
 

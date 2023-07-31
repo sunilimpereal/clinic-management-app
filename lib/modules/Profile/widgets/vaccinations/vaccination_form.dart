@@ -4,8 +4,8 @@ import 'dart:io';
 import 'package:file_picker/file_picker.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
-import 'package:jatya_patient_mobile/common_components/widgets/date_picker.dart';
-import 'package:jatya_patient_mobile/modules/Profile/widgets/vaccinations/certificate_image.dart';
+import 'package:clinic_app/common_components/widgets/date_picker.dart';
+import 'package:clinic_app/modules/Profile/widgets/vaccinations/certificate_image.dart';
 
 import '../../../../common_components/widgets/common_upload_box.dart';
 import '../../../../common_components/widgets/error_alert_dialog.dart';

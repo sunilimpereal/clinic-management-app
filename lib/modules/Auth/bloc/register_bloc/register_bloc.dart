@@ -1,7 +1,7 @@
 import 'package:flutter_bloc/flutter_bloc.dart';
-import 'package:jatya_patient_mobile/common_components/services/form_submission_status.dart';
-import 'package:jatya_patient_mobile/modules/Auth/model/register/register_request_model.dart';
-import 'package:jatya_patient_mobile/modules/Auth/model/register/register_response_model.dart';
+import 'package:clinic_app/common_components/services/form_submission_status.dart';
+import 'package:clinic_app/modules/Auth/model/register/register_request_model.dart';
+import 'package:clinic_app/modules/Auth/model/register/register_response_model.dart';
 
 import '../../services/auth_repository.dart';
 import 'package:equatable/equatable.dart';

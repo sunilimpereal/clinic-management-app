@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
-import 'package:jatya_patient_mobile/common_components/widgets/app_alert_dialog.dart';
-import 'package:jatya_patient_mobile/modules/Profile/bloc/previous_report_bloc/previousreport_bloc.dart';
+import 'package:clinic_app/common_components/widgets/app_alert_dialog.dart';
+import 'package:clinic_app/modules/Profile/bloc/previous_report_bloc/previousreport_bloc.dart';
 
 import '../../../../common_components/widgets/popup_widget.dart';
 import '../../widgets/previousReport/previous_report_form.dart';

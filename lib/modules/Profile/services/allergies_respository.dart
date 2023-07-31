@@ -1,4 +1,4 @@
-import 'package:jatya_patient_mobile/modules/Profile/models/allergies/post_allergy_request.dart';
+import 'package:clinic_app/modules/Profile/models/allergies/post_allergy_request.dart';
 
 import '../../../common_components/services/api_requests.dart';
 import '../../../utils/SharePref.dart';

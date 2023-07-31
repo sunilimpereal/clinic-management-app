@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:jatya_patient_mobile/modules/MyPrescription/models/latest_prescription.dart';
-import 'package:jatya_patient_mobile/modules/MyPrescription/screens/latest_prescription_tabs/prescription.dart';
+import 'package:clinic_app/modules/MyPrescription/models/latest_prescription.dart';
+import 'package:clinic_app/modules/MyPrescription/screens/latest_prescription_tabs/prescription.dart';
 
 import '../../../utils/constants/color_konstants.dart';
 import '../screens/prescription_detail_tabview.dart';

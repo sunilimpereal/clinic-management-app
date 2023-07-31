@@ -2,13 +2,13 @@ import 'dart:io';
 
 import 'package:equatable/equatable.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
-import 'package:jatya_patient_mobile/common_components/widgets/dropdown.dart';
-import 'package:jatya_patient_mobile/modules/Profile/models/vaccination/get_vaccine_response.dart';
-import 'package:jatya_patient_mobile/modules/Profile/models/vaccination/post_vaccine_request.dart';
-import 'package:jatya_patient_mobile/modules/Profile/models/vaccination/post_vaccine_response.dart';
-import 'package:jatya_patient_mobile/modules/Profile/models/vaccination/vaccine.dart';
-import 'package:jatya_patient_mobile/modules/Profile/services/vaccine_repository.dart';
-import 'package:jatya_patient_mobile/utils/SharePref.dart';
+import 'package:clinic_app/common_components/widgets/dropdown.dart';
+import 'package:clinic_app/modules/Profile/models/vaccination/get_vaccine_response.dart';
+import 'package:clinic_app/modules/Profile/models/vaccination/post_vaccine_request.dart';
+import 'package:clinic_app/modules/Profile/models/vaccination/post_vaccine_response.dart';
+import 'package:clinic_app/modules/Profile/models/vaccination/vaccine.dart';
+import 'package:clinic_app/modules/Profile/services/vaccine_repository.dart';
+import 'package:clinic_app/utils/SharePref.dart';
 part 'vaccinations_event.dart';
 part 'vaccinations_state.dart';
 

@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:jatya_patient_mobile/modules/Profile/models/get_specific_patient_by_id/get_sprecific_patient_by_id.dart';
-import 'package:jatya_patient_mobile/utils/constants/color_konstants.dart';
+import 'package:clinic_app/modules/Profile/models/get_specific_patient_by_id/get_sprecific_patient_by_id.dart';
+import 'package:clinic_app/utils/constants/color_konstants.dart';
 
 class ExpansionList extends StatefulWidget {
   final String question;

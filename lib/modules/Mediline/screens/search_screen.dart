@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
-import 'package:jatya_patient_mobile/modules/Mediline/widgets/single_mediline_card.dart';
+import 'package:clinic_app/modules/Mediline/widgets/single_mediline_card.dart';
 
 import '../bloc/search_bloc/mediline_search_bloc.dart';
 

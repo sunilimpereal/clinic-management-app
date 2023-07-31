@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:jatya_patient_mobile/utils/constants/image_konstants.dart';
+import 'package:clinic_app/utils/constants/image_konstants.dart';
 
 List<Widget> buildIconAndTitle(
     {required String titleText,

@@ -3,11 +3,11 @@ import 'dart:developer';
 
 import 'package:flutter/foundation.dart';
 import 'package:http/http.dart' as http;
-import 'package:jatya_patient_mobile/common_components/services/api_requests.dart';
-import 'package:jatya_patient_mobile/modules/Reports/models/get_recent_report_response_model.dart';
-import 'package:jatya_patient_mobile/modules/Reports/models/revoke_report_request_model.dart';
-import 'package:jatya_patient_mobile/modules/search/models/doctor_response.dart';
-import 'package:jatya_patient_mobile/utils/constants/api_konstants.dart';
+import 'package:clinic_app/common_components/services/api_requests.dart';
+import 'package:clinic_app/modules/Reports/models/get_recent_report_response_model.dart';
+import 'package:clinic_app/modules/Reports/models/revoke_report_request_model.dart';
+import 'package:clinic_app/modules/search/models/doctor_response.dart';
+import 'package:clinic_app/utils/constants/api_konstants.dart';
 
 import '../models/share_report_request_model.dart';
 

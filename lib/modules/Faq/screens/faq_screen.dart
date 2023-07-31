@@ -1,10 +1,10 @@
 import 'package:flutter/material.dart';
 import 'dart:ui';
-import 'package:jatya_patient_mobile/common_components/widgets/common_drawer.dart';
-import 'package:jatya_patient_mobile/common_components/widgets/link_text.dart';
-import 'package:jatya_patient_mobile/modules/Faq/widgets/faq_dialog_box.dart';
-import 'package:jatya_patient_mobile/modules/Faq/widgets/faq_qestion_widget.dart';
-import 'package:jatya_patient_mobile/utils/constants/faq_konstants.dart';
+import 'package:clinic_app/common_components/widgets/common_drawer.dart';
+import 'package:clinic_app/common_components/widgets/link_text.dart';
+import 'package:clinic_app/modules/Faq/widgets/faq_dialog_box.dart';
+import 'package:clinic_app/modules/Faq/widgets/faq_qestion_widget.dart';
+import 'package:clinic_app/utils/constants/faq_konstants.dart';
 
 class FAQScreen extends StatefulWidget {
   const FAQScreen({super.key});

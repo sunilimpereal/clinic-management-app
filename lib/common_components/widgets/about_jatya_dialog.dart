@@ -1,10 +1,10 @@
 // ignore_for_file: public_member_api_docs, sort_constructors_first
 import 'package:flutter/material.dart';
-import 'package:jatya_patient_mobile/common_components/app_info_screen.dart';
+import 'package:clinic_app/common_components/app_info_screen.dart';
 
-import 'package:jatya_patient_mobile/modules/Auth/widgets/custom_text_button.dart';
-import 'package:jatya_patient_mobile/utils/constants/terms_konstants.dart';
-import 'package:jatya_patient_mobile/utils/helper/helper.dart';
+import 'package:clinic_app/modules/Auth/widgets/custom_text_button.dart';
+import 'package:clinic_app/utils/constants/terms_konstants.dart';
+import 'package:clinic_app/utils/helper/helper.dart';
 
 import '../../utils/constants/image_konstants.dart';
 

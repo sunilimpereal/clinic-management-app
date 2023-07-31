@@ -2,9 +2,9 @@ import 'dart:developer';
 
 import 'package:equatable/equatable.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
-import 'package:jatya_patient_mobile/modules/Mediline/models/get_appointmens_response.dart';
-import 'package:jatya_patient_mobile/modules/Mediline/services/mediline_repository.dart';
-import 'package:jatya_patient_mobile/modules/NewAppointment/services/appointment_repository.dart';
+import 'package:clinic_app/modules/Mediline/models/get_appointmens_response.dart';
+import 'package:clinic_app/modules/Mediline/services/mediline_repository.dart';
+import 'package:clinic_app/modules/NewAppointment/services/appointment_repository.dart';
 
 import '../../NewAppointment/model/get_clinic_detail_response.dart';
 

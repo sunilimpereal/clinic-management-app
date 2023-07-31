@@ -2,10 +2,10 @@ import 'dart:developer';
 
 import 'package:bloc/bloc.dart';
 import 'package:equatable/equatable.dart';
-import 'package:jatya_patient_mobile/common_components/services/file_download_handler.dart';
-import 'package:jatya_patient_mobile/modules/MyPrescription/models/prescription_deatils/prescription_details.dart';
-import 'package:jatya_patient_mobile/modules/MyPrescription/services/prescription_services.dart';
-import 'package:jatya_patient_mobile/utils/SharePref.dart';
+import 'package:clinic_app/common_components/services/file_download_handler.dart';
+import 'package:clinic_app/modules/MyPrescription/models/prescription_deatils/prescription_details.dart';
+import 'package:clinic_app/modules/MyPrescription/services/prescription_services.dart';
+import 'package:clinic_app/utils/SharePref.dart';
 import 'package:url_launcher/url_launcher.dart';
 
 part 'prescription_details_bloc_event.dart';

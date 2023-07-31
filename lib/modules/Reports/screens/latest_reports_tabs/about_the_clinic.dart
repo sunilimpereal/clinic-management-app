@@ -1,9 +1,9 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
-import 'package:jatya_patient_mobile/modules/MyPrescription/models/prescription_deatils/prescription_details.dart';
-import 'package:jatya_patient_mobile/modules/MyPrescription/screens/latest_prescription_tabs/doctors_profile.dart';
-import 'package:jatya_patient_mobile/utils/constants/color_konstants.dart';
-import 'package:jatya_patient_mobile/utils/constants/image_konstants.dart';
+import 'package:clinic_app/modules/MyPrescription/models/prescription_deatils/prescription_details.dart';
+import 'package:clinic_app/modules/MyPrescription/screens/latest_prescription_tabs/doctors_profile.dart';
+import 'package:clinic_app/utils/constants/color_konstants.dart';
+import 'package:clinic_app/utils/constants/image_konstants.dart';
 
 import '../../../../common_components/widgets/common_drawer.dart';
 

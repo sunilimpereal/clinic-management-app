@@ -3,10 +3,10 @@ import 'dart:developer';
 
 import 'package:equatable/equatable.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
-import 'package:jatya_patient_mobile/modules/MyJatya/models/cancel_appointment_model.dart';
-import 'package:jatya_patient_mobile/modules/MyJatya/models/upcoming_appointment_model.dart';
-import 'package:jatya_patient_mobile/modules/MyJatya/services/appoitment_services.dart';
-import 'package:jatya_patient_mobile/utils/SharePref.dart';
+import 'package:clinic_app/modules/MyJatya/models/cancel_appointment_model.dart';
+import 'package:clinic_app/modules/MyJatya/models/upcoming_appointment_model.dart';
+import 'package:clinic_app/modules/MyJatya/services/appoitment_services.dart';
+import 'package:clinic_app/utils/SharePref.dart';
 
 part 'upcoming_appointmen_event.dart';
 part 'upcoming_appointmen_state.dart';

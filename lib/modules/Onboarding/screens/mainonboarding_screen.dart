@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:jatya_patient_mobile/modules/Auth/screens/register_screen.dart';
-import 'package:jatya_patient_mobile/utils/constants/color_konstants.dart';
+import 'package:clinic_app/modules/Auth/screens/register_screen.dart';
+import 'package:clinic_app/utils/constants/color_konstants.dart';
 
 import 'onboarding_screen_one.dart';
 import 'onboarding_screen_three.dart';

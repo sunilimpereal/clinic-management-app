@@ -1,10 +1,10 @@
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:equatable/equatable.dart';
-import 'package:jatya_patient_mobile/modules/Auth/model/login/login_phone_request_model.dart';
-import 'package:jatya_patient_mobile/modules/Auth/model/login/login_phone_response_model.dart';
-import 'package:jatya_patient_mobile/modules/Auth/model/login/login_response_model.dart';
-import 'package:jatya_patient_mobile/modules/Auth/model/login/mfa_phone_request.dart';
-import 'package:jatya_patient_mobile/modules/Auth/services/auth_repository.dart';
+import 'package:clinic_app/modules/Auth/model/login/login_phone_request_model.dart';
+import 'package:clinic_app/modules/Auth/model/login/login_phone_response_model.dart';
+import 'package:clinic_app/modules/Auth/model/login/login_response_model.dart';
+import 'package:clinic_app/modules/Auth/model/login/mfa_phone_request.dart';
+import 'package:clinic_app/modules/Auth/services/auth_repository.dart';
 import '../../../../common_components/services/form_submission_status.dart';
 import 'login_phone_state.dart';
 part 'login_phone_event.dart';

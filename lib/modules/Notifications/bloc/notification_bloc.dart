@@ -3,11 +3,11 @@ import 'dart:developer';
 
 import 'package:bloc/bloc.dart';
 import 'package:equatable/equatable.dart';
-import 'package:jatya_patient_mobile/modules/Notifications/models/doctorDetailNotification.dart';
-import 'package:jatya_patient_mobile/modules/Notifications/models/notification_model.dart';
-import 'package:jatya_patient_mobile/modules/Notifications/models/undoResponse.dart';
-import 'package:jatya_patient_mobile/modules/Notifications/services/notification_services.dart';
-import 'package:jatya_patient_mobile/utils/SharePref.dart';
+import 'package:clinic_app/modules/Notifications/models/doctorDetailNotification.dart';
+import 'package:clinic_app/modules/Notifications/models/notification_model.dart';
+import 'package:clinic_app/modules/Notifications/models/undoResponse.dart';
+import 'package:clinic_app/modules/Notifications/services/notification_services.dart';
+import 'package:clinic_app/utils/SharePref.dart';
 
 part 'notification_event.dart';
 part 'notification_state.dart';

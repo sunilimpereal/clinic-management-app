@@ -1,17 +1,17 @@
 import 'package:flutter/material.dart';
-import 'package:jatya_patient_mobile/common_components/widgets/app_alert_dialog.dart';
-import 'package:jatya_patient_mobile/common_components/widgets/link_text.dart';
-import 'package:jatya_patient_mobile/common_components/widgets/popup_widget.dart';
-import 'package:jatya_patient_mobile/modules/Auth/screens/login_screen.dart';
-import 'package:jatya_patient_mobile/modules/Profile/services/patient_repositroy.dart';
-import 'package:jatya_patient_mobile/utils/SharePref.dart';
+import 'package:clinic_app/common_components/widgets/app_alert_dialog.dart';
+import 'package:clinic_app/common_components/widgets/link_text.dart';
+import 'package:clinic_app/common_components/widgets/popup_widget.dart';
+import 'package:clinic_app/modules/Auth/screens/login_screen.dart';
+import 'package:clinic_app/modules/Profile/services/patient_repositroy.dart';
+import 'package:clinic_app/utils/SharePref.dart';
 import 'package:url_launcher/url_launcher_string.dart';
 
 import '../../../../utils/constants/color_konstants.dart';
 import '../../../../utils/constants/image_konstants.dart';
 import '../../screens/patient_profile_screen.dart';
 import '../callus_popup_dialog.dart';
-import 'package:jatya_patient_mobile/utils/helper/helper.dart';
+import 'package:clinic_app/utils/helper/helper.dart';
 
 class DeleteProfile extends StatelessWidget {
   const DeleteProfile({super.key});

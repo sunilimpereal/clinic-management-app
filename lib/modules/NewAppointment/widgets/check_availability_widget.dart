@@ -2,9 +2,9 @@ import 'dart:developer';
 
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
-import 'package:jatya_patient_mobile/modules/NewAppointment/model/appointment/get_slots_response.dart';
-import 'package:jatya_patient_mobile/modules/NewAppointment/widgets/appointment_card.dart';
-import 'package:jatya_patient_mobile/utils/constants/image_konstants.dart';
+import 'package:clinic_app/modules/NewAppointment/model/appointment/get_slots_response.dart';
+import 'package:clinic_app/modules/NewAppointment/widgets/appointment_card.dart';
+import 'package:clinic_app/utils/constants/image_konstants.dart';
 
 import '../../../utils/constants/color_konstants.dart';
 import '../model/doctors_via_location_response.dart';

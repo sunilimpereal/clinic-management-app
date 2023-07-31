@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:jatya_patient_mobile/common_components/widgets/app_alert_dialog.dart';
-import 'package:jatya_patient_mobile/modules/Auth/widgets/custom_elevated_button.dart';
+import 'package:clinic_app/common_components/widgets/app_alert_dialog.dart';
+import 'package:clinic_app/modules/Auth/widgets/custom_elevated_button.dart';
 
 class FaqSuccessDialogBox extends StatefulWidget {
   const FaqSuccessDialogBox({super.key});

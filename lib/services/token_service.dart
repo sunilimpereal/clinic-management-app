@@ -2,7 +2,7 @@ import 'dart:convert' show jsonDecode, jsonEncode;
 
 import 'package:flutter_web_auth/flutter_web_auth.dart';
 import 'package:http/http.dart' as http;
-import 'package:jatya_patient_mobile/utils/SharePref.dart';
+import 'package:clinic_app/utils/SharePref.dart';
 
 Future<Map?> getRefreshToken(String patientId) async {
   const googleClientId =

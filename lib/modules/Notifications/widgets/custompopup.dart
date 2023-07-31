@@ -2,11 +2,11 @@ import 'dart:developer';
 
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
-import 'package:jatya_patient_mobile/modules/MyPrescription/models/prescription_deatils/prescription_details.dart';
-import 'package:jatya_patient_mobile/modules/Notifications/bloc/notification_bloc.dart';
+import 'package:clinic_app/modules/MyPrescription/models/prescription_deatils/prescription_details.dart';
+import 'package:clinic_app/modules/Notifications/bloc/notification_bloc.dart';
 
 import '../../../utils/constants/color_konstants.dart';
-import 'package:jatya_patient_mobile/modules/Notifications/models/notification_model.dart';
+import 'package:clinic_app/modules/Notifications/models/notification_model.dart';
 import '../../MyPrescription/screens/latest_prescription_tabs/doctors_profile.dart';
 import '../models/doctorDetailNotification.dart';
 

@@ -2,9 +2,9 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_svg/flutter_svg.dart';
 import 'package:intl/intl.dart';
-import 'package:jatya_patient_mobile/modules/Reports/models/get_recent_report_response_model.dart';
-import 'package:jatya_patient_mobile/utils/SharePref.dart';
-import 'package:jatya_patient_mobile/utils/constants/image_konstants.dart';
+import 'package:clinic_app/modules/Reports/models/get_recent_report_response_model.dart';
+import 'package:clinic_app/utils/SharePref.dart';
+import 'package:clinic_app/utils/constants/image_konstants.dart';
 
 
 

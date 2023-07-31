@@ -2,15 +2,15 @@ import 'dart:developer';
 
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
-import 'package:jatya_patient_mobile/common_components/services/form_submission_status.dart';
-import 'package:jatya_patient_mobile/modules/Auth/screens/create_new_password_screen.dart';
-import 'package:jatya_patient_mobile/modules/Auth/screens/enter_otp_screen.dart';
-import 'package:jatya_patient_mobile/modules/Auth/widgets/custom_elevated_button.dart';
-import 'package:jatya_patient_mobile/modules/Auth/widgets/custom_text_button.dart';
-import 'package:jatya_patient_mobile/modules/Auth/widgets/icon_title_widget.dart';
-import 'package:jatya_patient_mobile/modules/Auth/widgets/input_text_field.dart';
-import 'package:jatya_patient_mobile/modules/Auth/widgets/phone_number_textfield.dart';
-import 'package:jatya_patient_mobile/modules/Auth/widgets/policy_buttons.dart';
+import 'package:clinic_app/common_components/services/form_submission_status.dart';
+import 'package:clinic_app/modules/Auth/screens/create_new_password_screen.dart';
+import 'package:clinic_app/modules/Auth/screens/enter_otp_screen.dart';
+import 'package:clinic_app/modules/Auth/widgets/custom_elevated_button.dart';
+import 'package:clinic_app/modules/Auth/widgets/custom_text_button.dart';
+import 'package:clinic_app/modules/Auth/widgets/icon_title_widget.dart';
+import 'package:clinic_app/modules/Auth/widgets/input_text_field.dart';
+import 'package:clinic_app/modules/Auth/widgets/phone_number_textfield.dart';
+import 'package:clinic_app/modules/Auth/widgets/policy_buttons.dart';
 
 import '../../../common_components/widgets/popup_widget.dart';
 import '../bloc/forgot_password_bloc/forgot_password_bloc.dart';

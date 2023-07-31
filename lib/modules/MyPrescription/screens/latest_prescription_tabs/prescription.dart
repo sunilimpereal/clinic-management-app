@@ -1,10 +1,10 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_svg/flutter_svg.dart';
 import 'package:intl/intl.dart';
-import 'package:jatya_patient_mobile/modules/MyPrescription/models/latest_prescription.dart';
-import 'package:jatya_patient_mobile/modules/MyPrescription/models/prescription_deatils/prescription_details.dart';
+import 'package:clinic_app/modules/MyPrescription/models/latest_prescription.dart';
+import 'package:clinic_app/modules/MyPrescription/models/prescription_deatils/prescription_details.dart';
 
-import 'package:jatya_patient_mobile/modules/MyPrescription/widgets/vitals_card.dart';
+import 'package:clinic_app/modules/MyPrescription/widgets/vitals_card.dart';
 import '../../../../common_components/widgets/common_drawer.dart';
 import '../../../../utils/constants/color_konstants.dart';
 import '../../../../utils/constants/image_konstants.dart';

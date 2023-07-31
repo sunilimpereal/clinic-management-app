@@ -2,8 +2,8 @@ import 'dart:developer';
 
 import 'package:flutter/material.dart';
 import 'package:flutter_svg/svg.dart';
-import 'package:jatya_patient_mobile/modules/SharedFiles/models/sharedfiles_model.dart';
-import 'package:jatya_patient_mobile/modules/SharedFiles/widgets/shared_files_bottomsheet.dart';
+import 'package:clinic_app/modules/SharedFiles/models/sharedfiles_model.dart';
+import 'package:clinic_app/modules/SharedFiles/widgets/shared_files_bottomsheet.dart';
 
 import '../../../utils/constants/color_konstants.dart';
 import '../../../utils/constants/image_konstants.dart';

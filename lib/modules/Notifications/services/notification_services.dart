@@ -3,10 +3,10 @@ import 'dart:developer';
 
 import 'package:flutter/foundation.dart';
 import 'package:http/http.dart' as http;
-import 'package:jatya_patient_mobile/modules/Notifications/models/notification_model.dart';
-import 'package:jatya_patient_mobile/modules/Notifications/models/undoResponse.dart';
-import 'package:jatya_patient_mobile/utils/SharePref.dart';
-import 'package:jatya_patient_mobile/utils/constants/api_konstants.dart';
+import 'package:clinic_app/modules/Notifications/models/notification_model.dart';
+import 'package:clinic_app/modules/Notifications/models/undoResponse.dart';
+import 'package:clinic_app/utils/SharePref.dart';
+import 'package:clinic_app/utils/constants/api_konstants.dart';
 import '../models/doctorDetailNotification.dart';
 
 class NotificationReporsitory {

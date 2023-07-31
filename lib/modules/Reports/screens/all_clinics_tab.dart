@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:jatya_patient_mobile/modules/Reports/models/get_recent_report_response_model.dart';
-import 'package:jatya_patient_mobile/modules/Reports/widgets/clinic_list_item.dart';
+import 'package:clinic_app/modules/Reports/models/get_recent_report_response_model.dart';
+import 'package:clinic_app/modules/Reports/widgets/clinic_list_item.dart';
 import 'package:url_launcher/url_launcher_string.dart';
 
 import 'latest_reports_tabs/report.dart';

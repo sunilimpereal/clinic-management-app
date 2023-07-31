@@ -1,7 +1,7 @@
 // ignore_for_file: prefer_const_constructors
 
 import 'package:flutter/material.dart';
-import 'package:jatya_patient_mobile/utils/constants/image_konstants.dart';
+import 'package:clinic_app/utils/constants/image_konstants.dart';
 
 class OnboardingScreenOne extends StatelessWidget {
   const OnboardingScreenOne({Key? key}) : super(key: key);

@@ -3,11 +3,11 @@ import 'dart:developer';
 
 import 'package:flutter/foundation.dart';
 import 'package:http/http.dart' as http;
-import 'package:jatya_patient_mobile/modules/MyPrescription/models/download_prescription/download_prescription_details.dart';
-import 'package:jatya_patient_mobile/modules/MyPrescription/models/get_all_clinic/get_all_clinic_response.dart';
-import 'package:jatya_patient_mobile/modules/MyPrescription/models/latest_prescription.dart';
-import 'package:jatya_patient_mobile/modules/MyPrescription/models/prescription_deatils/prescription_details.dart';
-import 'package:jatya_patient_mobile/utils/constants/api_konstants.dart';
+import 'package:clinic_app/modules/MyPrescription/models/download_prescription/download_prescription_details.dart';
+import 'package:clinic_app/modules/MyPrescription/models/get_all_clinic/get_all_clinic_response.dart';
+import 'package:clinic_app/modules/MyPrescription/models/latest_prescription.dart';
+import 'package:clinic_app/modules/MyPrescription/models/prescription_deatils/prescription_details.dart';
+import 'package:clinic_app/utils/constants/api_konstants.dart';
 
 import '../../../common_components/services/api_requests.dart';
 import '../../search/models/doctor_response.dart';

@@ -1,8 +1,8 @@
 import 'dart:convert';
 import 'package:health/health.dart';
 import 'package:http/http.dart' as http;
-import 'package:jatya_patient_mobile/utils/SharePref.dart';
-import 'package:jatya_patient_mobile/utils/helper/helper.dart';
+import 'package:clinic_app/utils/SharePref.dart';
+import 'package:clinic_app/utils/helper/helper.dart';
 
 Future<dynamic> getAndSyncAppleHealthData(String patientId) async {
   HealthFactory health = HealthFactory();

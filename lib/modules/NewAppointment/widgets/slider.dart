@@ -1,7 +1,7 @@
 import 'dart:developer';
 
 import 'package:flutter/material.dart';
-import 'package:jatya_patient_mobile/utils/constants/color_konstants.dart';
+import 'package:clinic_app/utils/constants/color_konstants.dart';
 
 class AppSlider extends StatefulWidget {
   final int startValue;

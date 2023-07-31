@@ -1,6 +1,6 @@
 import 'package:equatable/equatable.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
-import 'package:jatya_patient_mobile/modules/SharedFiles/models/sharedfiles_model.dart';
+import 'package:clinic_app/modules/SharedFiles/models/sharedfiles_model.dart';
 
 import '../services/sharedfiles_repo.dart';
 

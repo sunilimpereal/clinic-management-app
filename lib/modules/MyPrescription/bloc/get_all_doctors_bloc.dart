@@ -1,6 +1,6 @@
 import 'package:flutter_bloc/flutter_bloc.dart';
-import 'package:jatya_patient_mobile/modules/MyPrescription/services/prescription_services.dart';
-import 'package:jatya_patient_mobile/modules/search/models/doctor_response.dart';
+import 'package:clinic_app/modules/MyPrescription/services/prescription_services.dart';
+import 'package:clinic_app/modules/search/models/doctor_response.dart';
 
 class GetAllDoctorsEvent {}
 

@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:jatya_patient_mobile/modules/NewAppointment/screens/payment_screen.dart';
-import 'package:jatya_patient_mobile/modules/search/models/doctor_response.dart';
-import 'package:jatya_patient_mobile/utils/constants/color_konstants.dart';
+import 'package:clinic_app/modules/NewAppointment/screens/payment_screen.dart';
+import 'package:clinic_app/modules/search/models/doctor_response.dart';
+import 'package:clinic_app/utils/constants/color_konstants.dart';
 
 class DoctorCard extends StatefulWidget {
   final GetDoctorsData doctor;

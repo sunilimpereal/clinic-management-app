@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/src/widgets/framework.dart';
 import 'package:flutter/src/widgets/placeholder.dart';
-import 'package:jatya_patient_mobile/common_components/widgets/link_text.dart';
-import 'package:jatya_patient_mobile/common_components/widgets/dropdown.dart';
+import 'package:clinic_app/common_components/widgets/link_text.dart';
+import 'package:clinic_app/common_components/widgets/dropdown.dart';
 
 class DiscountPopup extends StatefulWidget {
   const DiscountPopup({super.key});

@@ -2,11 +2,11 @@
 import 'dart:developer';
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
-import 'package:jatya_patient_mobile/common_components/widgets/popup_widget.dart';
-import 'package:jatya_patient_mobile/modules/Auth/screens/login_screen.dart';
-import 'package:jatya_patient_mobile/modules/Auth/widgets/custom_text_button.dart';
-import 'package:jatya_patient_mobile/modules/Auth/widgets/otp_form.dart';
-import 'package:jatya_patient_mobile/modules/Auth/widgets/policy_buttons.dart';
+import 'package:clinic_app/common_components/widgets/popup_widget.dart';
+import 'package:clinic_app/modules/Auth/screens/login_screen.dart';
+import 'package:clinic_app/modules/Auth/widgets/custom_text_button.dart';
+import 'package:clinic_app/modules/Auth/widgets/otp_form.dart';
+import 'package:clinic_app/modules/Auth/widgets/policy_buttons.dart';
 import '../../../common_components/widgets/error_alert_dialog.dart';
 import '../../../utils/constants/image_konstants.dart';
 import '../bloc/forgot_password_bloc/forgot_password_bloc.dart';

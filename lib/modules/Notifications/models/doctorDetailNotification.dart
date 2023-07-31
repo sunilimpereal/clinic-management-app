@@ -1,5 +1,5 @@
-import 'package:jatya_patient_mobile/modules/Mediline/models/get_clinic_response.dart';
-import 'package:jatya_patient_mobile/modules/MyPrescription/models/prescription_deatils/prescription_details.dart';
+import 'package:clinic_app/modules/Mediline/models/get_clinic_response.dart';
+import 'package:clinic_app/modules/MyPrescription/models/prescription_deatils/prescription_details.dart';
 
 class DoctorDetailsNotification {
   Doctor? doctor;

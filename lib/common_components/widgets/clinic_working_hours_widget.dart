@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:intl/intl.dart';
-import 'package:jatya_patient_mobile/common_components/model/errors/clinic_working_hours_model.dart';
+import 'package:clinic_app/common_components/model/errors/clinic_working_hours_model.dart';
 
 import '../../../utils/constants/color_konstants.dart';
 

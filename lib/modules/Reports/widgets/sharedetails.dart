@@ -2,16 +2,16 @@ import 'dart:developer';
 
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
-import 'package:jatya_patient_mobile/common_components/widgets/link_text.dart';
-import 'package:jatya_patient_mobile/modules/Reports/bloc/get_all_doctors_bloc.dart';
-import 'package:jatya_patient_mobile/modules/Reports/models/get_recent_report_response_model.dart';
-import 'package:jatya_patient_mobile/modules/Reports/models/revoke_report_request_model.dart';
-import 'package:jatya_patient_mobile/modules/Reports/models/share_report_request_model.dart';
-import 'package:jatya_patient_mobile/modules/Reports/services/recent_reports_repo.dart';
-import 'package:jatya_patient_mobile/modules/Reports/widgets/doctor_card.dart';
-import 'package:jatya_patient_mobile/modules/Reports/widgets/report_card.dart';
-import 'package:jatya_patient_mobile/utils/SharePref.dart';
-import 'package:jatya_patient_mobile/utils/helper/helper.dart';
+import 'package:clinic_app/common_components/widgets/link_text.dart';
+import 'package:clinic_app/modules/Reports/bloc/get_all_doctors_bloc.dart';
+import 'package:clinic_app/modules/Reports/models/get_recent_report_response_model.dart';
+import 'package:clinic_app/modules/Reports/models/revoke_report_request_model.dart';
+import 'package:clinic_app/modules/Reports/models/share_report_request_model.dart';
+import 'package:clinic_app/modules/Reports/services/recent_reports_repo.dart';
+import 'package:clinic_app/modules/Reports/widgets/doctor_card.dart';
+import 'package:clinic_app/modules/Reports/widgets/report_card.dart';
+import 'package:clinic_app/utils/SharePref.dart';
+import 'package:clinic_app/utils/helper/helper.dart';
 
 import '../../../utils/constants/color_konstants.dart';
 

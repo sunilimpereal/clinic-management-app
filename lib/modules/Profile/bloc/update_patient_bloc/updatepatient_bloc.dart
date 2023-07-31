@@ -3,9 +3,9 @@ import 'dart:io';
 
 import 'package:equatable/equatable.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
-import 'package:jatya_patient_mobile/modules/Profile/models/patient/get_patient_details_response.dart';
-import 'package:jatya_patient_mobile/modules/Profile/services/patient_repositroy.dart';
-import 'package:jatya_patient_mobile/utils/SharePref.dart';
+import 'package:clinic_app/modules/Profile/models/patient/get_patient_details_response.dart';
+import 'package:clinic_app/modules/Profile/services/patient_repositroy.dart';
+import 'package:clinic_app/utils/SharePref.dart';
 
 import '../../../../common_components/widgets/dropdown.dart';
 import '../../../../utils/constants/items_konstants.dart';

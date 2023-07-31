@@ -1,6 +1,6 @@
 import 'dart:developer';
 
-import 'package:jatya_patient_mobile/modules/Profile/models/patient/get_patient_details_response.dart';
+import 'package:clinic_app/modules/Profile/models/patient/get_patient_details_response.dart';
 import '../../../common_components/services/api_requests.dart';
 import '../../../utils/SharePref.dart';
 import '../../../utils/constants/api_konstants.dart';

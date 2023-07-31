@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:intl/intl.dart';
-import 'package:jatya_patient_mobile/common_components/widgets/map_icon.dart';
-import 'package:jatya_patient_mobile/modules/NewAppointment/screens/payment_screen.dart';
+import 'package:clinic_app/common_components/widgets/map_icon.dart';
+import 'package:clinic_app/modules/NewAppointment/screens/payment_screen.dart';
 
 import '../model/appointment/get_slots_response.dart';
 import '../model/doctors_via_location_response.dart';

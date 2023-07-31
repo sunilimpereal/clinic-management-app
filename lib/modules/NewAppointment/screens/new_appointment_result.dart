@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:intl/intl.dart';
-import 'package:jatya_patient_mobile/modules/online_consultation/widgets/doctor_card.dart';
+import 'package:clinic_app/modules/online_consultation/widgets/doctor_card.dart';
 
 import '../model/doctors_via_location_response.dart';
 

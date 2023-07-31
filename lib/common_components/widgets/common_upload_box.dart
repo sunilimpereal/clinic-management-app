@@ -1,7 +1,7 @@
 import 'package:dotted_border/dotted_border.dart';
 import 'package:flutter/material.dart';
 
-import 'package:jatya_patient_mobile/utils/constants/color_konstants.dart';
+import 'package:clinic_app/utils/constants/color_konstants.dart';
 
 class CommonUploadReport extends StatelessWidget {
   final bool isDisabled;

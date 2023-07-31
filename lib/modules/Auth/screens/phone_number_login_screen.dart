@@ -4,19 +4,19 @@ import 'dart:developer';
 
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
-import 'package:jatya_patient_mobile/common_components/services/form_submission_status.dart';
-import 'package:jatya_patient_mobile/modules/Auth/bloc/login_phone_bloc/login_phone_bloc.dart';
-import 'package:jatya_patient_mobile/modules/Auth/model/login/mfa_phone_request.dart';
-import 'package:jatya_patient_mobile/modules/Auth/screens/enter_otp_screen.dart';
+import 'package:clinic_app/common_components/services/form_submission_status.dart';
+import 'package:clinic_app/modules/Auth/bloc/login_phone_bloc/login_phone_bloc.dart';
+import 'package:clinic_app/modules/Auth/model/login/mfa_phone_request.dart';
+import 'package:clinic_app/modules/Auth/screens/enter_otp_screen.dart';
 
-import 'package:jatya_patient_mobile/modules/Auth/services/auth_repository.dart';
-import 'package:jatya_patient_mobile/modules/Auth/services/validators.dart';
-import 'package:jatya_patient_mobile/modules/Auth/widgets/custom_text_button.dart';
-import 'package:jatya_patient_mobile/modules/Auth/widgets/icon_title_widget.dart';
+import 'package:clinic_app/modules/Auth/services/auth_repository.dart';
+import 'package:clinic_app/modules/Auth/services/validators.dart';
+import 'package:clinic_app/modules/Auth/widgets/custom_text_button.dart';
+import 'package:clinic_app/modules/Auth/widgets/icon_title_widget.dart';
 
-import 'package:jatya_patient_mobile/modules/Auth/widgets/phone_number_textfield.dart';
-import 'package:jatya_patient_mobile/modules/Auth/widgets/policy_buttons.dart';
-import 'package:jatya_patient_mobile/modules/MyJatya/screens/MyJatya.dart';
+import 'package:clinic_app/modules/Auth/widgets/phone_number_textfield.dart';
+import 'package:clinic_app/modules/Auth/widgets/policy_buttons.dart';
+import 'package:clinic_app/modules/MyJatya/screens/MyJatya.dart';
 
 import '../../../common_components/widgets/error_alert_dialog.dart';
 import '../../../common_components/widgets/popup_widget.dart';

@@ -4,7 +4,7 @@
 
 import 'dart:convert';
 
-import 'package:jatya_patient_mobile/modules/NewAppointment/model/doctors_via_location_response.dart';
+import 'package:clinic_app/modules/NewAppointment/model/doctors_via_location_response.dart';
 
 GetSpecialisationResponse getSpecialisationResponseFromJson(String str) =>
     GetSpecialisationResponse.fromJson(json.decode(str));

@@ -4,10 +4,10 @@ import 'dart:io';
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/material.dart';
 import 'package:google_sign_in/google_sign_in.dart';
-import 'package:jatya_patient_mobile/modules/Auth/model/login/user_object.dart';
-import 'package:jatya_patient_mobile/modules/Auth/services/social_signin_repository.dart';
-import 'package:jatya_patient_mobile/modules/Auth/widgets/social_media_login_button.dart';
-import 'package:jatya_patient_mobile/modules/MyJatya/screens/MyJatya.dart';
+import 'package:clinic_app/modules/Auth/model/login/user_object.dart';
+import 'package:clinic_app/modules/Auth/services/social_signin_repository.dart';
+import 'package:clinic_app/modules/Auth/widgets/social_media_login_button.dart';
+import 'package:clinic_app/modules/MyJatya/screens/MyJatya.dart';
 
 import '../../../common_components/widgets/error_alert_dialog.dart';
 import '../../../common_components/widgets/popup_widget.dart';

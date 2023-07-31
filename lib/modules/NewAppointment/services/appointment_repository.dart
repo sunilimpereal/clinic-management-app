@@ -3,11 +3,11 @@ import 'dart:developer';
 import 'package:flutter/cupertino.dart';
 import 'package:geolocator/geolocator.dart';
 import 'package:intl/intl.dart';
-import 'package:jatya_patient_mobile/common_components/widgets/dropdown.dart';
-import 'package:jatya_patient_mobile/modules/NewAppointment/model/appointment/create_appointment.dart';
-import 'package:jatya_patient_mobile/modules/NewAppointment/model/appointment/create_appointment_response.dart';
-import 'package:jatya_patient_mobile/modules/NewAppointment/model/appointment/get_specialisation_response.dart';
-import 'package:jatya_patient_mobile/modules/NewAppointment/model/doctors_via_location_response.dart';
+import 'package:clinic_app/common_components/widgets/dropdown.dart';
+import 'package:clinic_app/modules/NewAppointment/model/appointment/create_appointment.dart';
+import 'package:clinic_app/modules/NewAppointment/model/appointment/create_appointment_response.dart';
+import 'package:clinic_app/modules/NewAppointment/model/appointment/get_specialisation_response.dart';
+import 'package:clinic_app/modules/NewAppointment/model/doctors_via_location_response.dart';
 
 import '../../../common_components/services/api_requests.dart';
 import '../../../utils/constants/api_konstants.dart';

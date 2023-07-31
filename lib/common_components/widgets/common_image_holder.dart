@@ -3,11 +3,11 @@ import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:flutter_cache_manager/flutter_cache_manager.dart';
 import 'package:image_picker/image_picker.dart';
-import 'package:jatya_patient_mobile/common_components/widgets/popup_widget.dart';
-import 'package:jatya_patient_mobile/common_components/widgets/success_alert_dialog.dart';
-import 'package:jatya_patient_mobile/modules/Profile/bloc/previous_report_bloc/previousreport_bloc.dart';
-import 'package:jatya_patient_mobile/modules/Profile/services/previous_report_repository.dart';
-import 'package:jatya_patient_mobile/utils/constants/color_konstants.dart';
+import 'package:clinic_app/common_components/widgets/popup_widget.dart';
+import 'package:clinic_app/common_components/widgets/success_alert_dialog.dart';
+import 'package:clinic_app/modules/Profile/bloc/previous_report_bloc/previousreport_bloc.dart';
+import 'package:clinic_app/modules/Profile/services/previous_report_repository.dart';
+import 'package:clinic_app/utils/constants/color_konstants.dart';
 import 'package:pdf_render/pdf_render_widgets.dart';
 
 import '../../modules/Profile/models/prev_reports/get_previous_reports_response.dart';

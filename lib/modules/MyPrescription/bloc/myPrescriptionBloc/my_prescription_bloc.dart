@@ -2,9 +2,9 @@ import 'dart:developer';
 
 import 'package:bloc/bloc.dart';
 import 'package:equatable/equatable.dart';
-import 'package:jatya_patient_mobile/modules/MyPrescription/models/latest_prescription.dart';
-import 'package:jatya_patient_mobile/modules/MyPrescription/services/prescription_services.dart';
-import 'package:jatya_patient_mobile/utils/SharePref.dart';
+import 'package:clinic_app/modules/MyPrescription/models/latest_prescription.dart';
+import 'package:clinic_app/modules/MyPrescription/services/prescription_services.dart';
+import 'package:clinic_app/utils/SharePref.dart';
 
 import '../../../NewAppointment/model/get_clinic_detail_response.dart';
 import '../../../NewAppointment/services/appointment_repository.dart';

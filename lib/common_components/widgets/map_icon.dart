@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:jatya_patient_mobile/utils/helper/helper.dart';
-import 'package:jatya_patient_mobile/utils/helper/map_utils.dart';
+import 'package:clinic_app/utils/helper/helper.dart';
+import 'package:clinic_app/utils/helper/map_utils.dart';
 
 import '../../utils/constants/image_konstants.dart';
 

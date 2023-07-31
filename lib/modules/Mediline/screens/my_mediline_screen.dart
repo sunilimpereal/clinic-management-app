@@ -1,13 +1,13 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
-import 'package:jatya_patient_mobile/common_components/widgets/common_drawer.dart';
-import 'package:jatya_patient_mobile/modules/Mediline/bloc/mediline_bloc.dart';
-import 'package:jatya_patient_mobile/modules/Mediline/models/get_appointmens_response.dart';
-import 'package:jatya_patient_mobile/modules/Mediline/screens/search_screen.dart';
-import 'package:jatya_patient_mobile/modules/Mediline/widgets/app_bar_dropdown_menu.dart';
-import 'package:jatya_patient_mobile/modules/Mediline/widgets/date_picker.dart';
-import 'package:jatya_patient_mobile/modules/Mediline/widgets/mediline_tab_view.dart';
-import 'package:jatya_patient_mobile/utils/helper/helper.dart';
+import 'package:clinic_app/common_components/widgets/common_drawer.dart';
+import 'package:clinic_app/modules/Mediline/bloc/mediline_bloc.dart';
+import 'package:clinic_app/modules/Mediline/models/get_appointmens_response.dart';
+import 'package:clinic_app/modules/Mediline/screens/search_screen.dart';
+import 'package:clinic_app/modules/Mediline/widgets/app_bar_dropdown_menu.dart';
+import 'package:clinic_app/modules/Mediline/widgets/date_picker.dart';
+import 'package:clinic_app/modules/Mediline/widgets/mediline_tab_view.dart';
+import 'package:clinic_app/utils/helper/helper.dart';
 
 import '../../../utils/constants/color_konstants.dart';
 import '../../MyJatya/screens/MyJatya.dart';

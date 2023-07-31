@@ -4,14 +4,14 @@ import 'package:confetti/confetti.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:flutter_svg/flutter_svg.dart';
-import 'package:jatya_patient_mobile/modules/Auth/model/login/login_response_model.dart';
-import 'package:jatya_patient_mobile/modules/Profile/bloc/update_patient_bloc/updatepatient_bloc.dart';
+import 'package:clinic_app/modules/Auth/model/login/login_response_model.dart';
+import 'package:clinic_app/modules/Profile/bloc/update_patient_bloc/updatepatient_bloc.dart';
 
-import 'package:jatya_patient_mobile/modules/Profile/screens/patient_profile_screen.dart';
-import 'package:jatya_patient_mobile/modules/Profile/screens/patient_update_profile.dart';
-import 'package:jatya_patient_mobile/modules/Profile/widgets/patient_circular_profile_pic.dart';
-import 'package:jatya_patient_mobile/utils/constants/color_konstants.dart';
-import 'package:jatya_patient_mobile/utils/constants/image_konstants.dart';
+import 'package:clinic_app/modules/Profile/screens/patient_profile_screen.dart';
+import 'package:clinic_app/modules/Profile/screens/patient_update_profile.dart';
+import 'package:clinic_app/modules/Profile/widgets/patient_circular_profile_pic.dart';
+import 'package:clinic_app/utils/constants/color_konstants.dart';
+import 'package:clinic_app/utils/constants/image_konstants.dart';
 
 import '../../Profile/models/patient/get_patient_details_response.dart';
 import '../../Profile/services/patient_repositroy.dart';

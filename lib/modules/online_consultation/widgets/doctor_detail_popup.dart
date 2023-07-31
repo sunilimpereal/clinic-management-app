@@ -1,12 +1,12 @@
 import 'package:flutter/material.dart';
 import 'package:intl/intl.dart';
-import 'package:jatya_patient_mobile/modules/NewAppointment/model/doctor/doctor-detail_response.dart';
-import 'package:jatya_patient_mobile/modules/NewAppointment/model/doctors_via_location_response.dart';
-import 'package:jatya_patient_mobile/modules/NewAppointment/services/appointment_repository.dart';
-import 'package:jatya_patient_mobile/modules/online_consultation/widgets/doctor_card.dart';
-import 'package:jatya_patient_mobile/common_components/widgets/dropdown.dart';
-import 'package:jatya_patient_mobile/utils/constants/color_konstants.dart';
-import 'package:jatya_patient_mobile/utils/constants/image_konstants.dart';
+import 'package:clinic_app/modules/NewAppointment/model/doctor/doctor-detail_response.dart';
+import 'package:clinic_app/modules/NewAppointment/model/doctors_via_location_response.dart';
+import 'package:clinic_app/modules/NewAppointment/services/appointment_repository.dart';
+import 'package:clinic_app/modules/online_consultation/widgets/doctor_card.dart';
+import 'package:clinic_app/common_components/widgets/dropdown.dart';
+import 'package:clinic_app/utils/constants/color_konstants.dart';
+import 'package:clinic_app/utils/constants/image_konstants.dart';
 
 class DoctorDetailPopupWidget extends StatefulWidget {
   final String doctorId;

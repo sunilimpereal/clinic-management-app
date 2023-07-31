@@ -2,16 +2,16 @@ import 'dart:developer';
 
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
-import 'package:jatya_patient_mobile/common_components/services/app_exceptions.dart';
-import 'package:jatya_patient_mobile/common_components/services/form_submission_status.dart';
-import 'package:jatya_patient_mobile/common_components/widgets/password_textfield.dart';
-import 'package:jatya_patient_mobile/common_components/widgets/success_alert_dialog.dart';
-import 'package:jatya_patient_mobile/modules/Auth/screens/login_screen.dart';
-import 'package:jatya_patient_mobile/modules/Auth/services/auth_repository.dart';
-import 'package:jatya_patient_mobile/modules/Auth/widgets/custom_elevated_button.dart';
-import 'package:jatya_patient_mobile/modules/Auth/widgets/custom_text_button.dart';
-import 'package:jatya_patient_mobile/modules/Auth/widgets/input_text_field.dart';
-import 'package:jatya_patient_mobile/modules/Auth/widgets/policy_buttons.dart';
+import 'package:clinic_app/common_components/services/app_exceptions.dart';
+import 'package:clinic_app/common_components/services/form_submission_status.dart';
+import 'package:clinic_app/common_components/widgets/password_textfield.dart';
+import 'package:clinic_app/common_components/widgets/success_alert_dialog.dart';
+import 'package:clinic_app/modules/Auth/screens/login_screen.dart';
+import 'package:clinic_app/modules/Auth/services/auth_repository.dart';
+import 'package:clinic_app/modules/Auth/widgets/custom_elevated_button.dart';
+import 'package:clinic_app/modules/Auth/widgets/custom_text_button.dart';
+import 'package:clinic_app/modules/Auth/widgets/input_text_field.dart';
+import 'package:clinic_app/modules/Auth/widgets/policy_buttons.dart';
 
 import '../../../common_components/widgets/error_alert_dialog.dart';
 import '../../../common_components/widgets/popup_widget.dart';

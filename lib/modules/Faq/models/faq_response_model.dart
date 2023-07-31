@@ -1,6 +1,6 @@
 import 'dart:convert';
 
-import 'package:jatya_patient_mobile/modules/Faq/models/faq_model.dart';
+import 'package:clinic_app/modules/Faq/models/faq_model.dart';
 
 class FaqResponseArray {
   List<FAQ> responses;

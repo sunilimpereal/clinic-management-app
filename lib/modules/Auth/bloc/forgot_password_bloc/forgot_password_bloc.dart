@@ -1,9 +1,9 @@
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:equatable/equatable.dart';
-import 'package:jatya_patient_mobile/common_components/services/form_submission_status.dart';
-import 'package:jatya_patient_mobile/modules/Auth/model/forgot_password/forgot_password_request_model.dart';
-import 'package:jatya_patient_mobile/modules/Auth/model/forgot_password/forgot_password_response.dart';
-import 'package:jatya_patient_mobile/modules/Auth/services/auth_repository.dart';
+import 'package:clinic_app/common_components/services/form_submission_status.dart';
+import 'package:clinic_app/modules/Auth/model/forgot_password/forgot_password_request_model.dart';
+import 'package:clinic_app/modules/Auth/model/forgot_password/forgot_password_response.dart';
+import 'package:clinic_app/modules/Auth/services/auth_repository.dart';
 
 part '../login_bloc/forgot_password_event.dart';
 part 'forgot_password_state.dart';

@@ -3,7 +3,7 @@ import 'dart:developer';
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:intl/intl.dart';
-import 'package:jatya_patient_mobile/modules/Mediline/models/get_appointmens_response.dart';
+import 'package:clinic_app/modules/Mediline/models/get_appointmens_response.dart';
 
 import '../bloc/mediline_bloc.dart';
 import 'mediline_card.dart';

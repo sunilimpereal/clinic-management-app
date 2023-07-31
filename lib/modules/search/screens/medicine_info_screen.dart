@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:jatya_patient_mobile/modules/search/models/medicine_response.dart';
+import 'package:clinic_app/modules/search/models/medicine_response.dart';
 import 'package:webview_flutter/webview_flutter.dart';
 
 class MedicineInfo extends StatefulWidget {

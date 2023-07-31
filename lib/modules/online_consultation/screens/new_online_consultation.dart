@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
-import 'package:jatya_patient_mobile/common_components/widgets/common_drawer.dart';
-import 'package:jatya_patient_mobile/modules/online_consultation/screens/new_online_consultation_result.dart';
-import 'package:jatya_patient_mobile/common_components/widgets/date_picker.dart';
-import 'package:jatya_patient_mobile/common_components/widgets/dropdown.dart';
+import 'package:clinic_app/common_components/widgets/common_drawer.dart';
+import 'package:clinic_app/modules/online_consultation/screens/new_online_consultation_result.dart';
+import 'package:clinic_app/common_components/widgets/date_picker.dart';
+import 'package:clinic_app/common_components/widgets/dropdown.dart';
 
 class NewOnlineConsultationScreen extends StatefulWidget {
   const NewOnlineConsultationScreen({super.key});

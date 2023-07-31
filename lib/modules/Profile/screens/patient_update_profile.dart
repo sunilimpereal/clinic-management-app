@@ -2,16 +2,16 @@ import 'dart:developer';
 
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
-import 'package:jatya_patient_mobile/modules/MyJatya/screens/MyJatya.dart';
-import 'package:jatya_patient_mobile/modules/Profile/bloc/patient_bloc/patient_bloc.dart';
-import 'package:jatya_patient_mobile/modules/Profile/bloc/update_patient_bloc/updatepatient_bloc.dart';
-import 'package:jatya_patient_mobile/modules/Profile/models/patient/get_patient_details_response.dart';
-import 'package:jatya_patient_mobile/modules/Profile/screens/patient_update_screen_tabs/allergies_tab.dart';
-import 'package:jatya_patient_mobile/modules/Profile/screens/patient_update_screen_tabs/demographic_tab.dart';
-import 'package:jatya_patient_mobile/modules/Profile/screens/patient_update_screen_tabs/previous_reports_tab.dart';
-import 'package:jatya_patient_mobile/modules/Profile/screens/patient_update_screen_tabs/vaccination_tab.dart';
-import 'package:jatya_patient_mobile/modules/Profile/services/allergies_respository.dart';
-import 'package:jatya_patient_mobile/modules/Profile/widgets/callus_popup_dialog.dart';
+import 'package:clinic_app/modules/MyJatya/screens/MyJatya.dart';
+import 'package:clinic_app/modules/Profile/bloc/patient_bloc/patient_bloc.dart';
+import 'package:clinic_app/modules/Profile/bloc/update_patient_bloc/updatepatient_bloc.dart';
+import 'package:clinic_app/modules/Profile/models/patient/get_patient_details_response.dart';
+import 'package:clinic_app/modules/Profile/screens/patient_update_screen_tabs/allergies_tab.dart';
+import 'package:clinic_app/modules/Profile/screens/patient_update_screen_tabs/demographic_tab.dart';
+import 'package:clinic_app/modules/Profile/screens/patient_update_screen_tabs/previous_reports_tab.dart';
+import 'package:clinic_app/modules/Profile/screens/patient_update_screen_tabs/vaccination_tab.dart';
+import 'package:clinic_app/modules/Profile/services/allergies_respository.dart';
+import 'package:clinic_app/modules/Profile/widgets/callus_popup_dialog.dart';
 
 import '../../../utils/constants/color_konstants.dart';
 import '../models/allergies/post_allergy_request.dart';

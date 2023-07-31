@@ -1,8 +1,8 @@
 import 'package:equatable/equatable.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
-import 'package:jatya_patient_mobile/modules/Profile/models/patient/get_patient_details_response.dart';
-import 'package:jatya_patient_mobile/modules/Profile/models/patient/get_patinet_clinics_visited.dart';
-import 'package:jatya_patient_mobile/modules/Profile/services/patient_repositroy.dart';
+import 'package:clinic_app/modules/Profile/models/patient/get_patient_details_response.dart';
+import 'package:clinic_app/modules/Profile/models/patient/get_patinet_clinics_visited.dart';
+import 'package:clinic_app/modules/Profile/services/patient_repositroy.dart';
 
 part 'patient_event.dart';
 part 'patient_state.dart';

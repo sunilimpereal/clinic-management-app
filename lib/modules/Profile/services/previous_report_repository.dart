@@ -3,8 +3,8 @@ import 'dart:developer';
 import 'dart:io';
 
 import 'package:intl/intl.dart';
-import 'package:jatya_patient_mobile/modules/Profile/models/prev_reports/post_report_request.dart';
-import 'package:jatya_patient_mobile/modules/Profile/models/prev_reports/post_report_response.dart';
+import 'package:clinic_app/modules/Profile/models/prev_reports/post_report_request.dart';
+import 'package:clinic_app/modules/Profile/models/prev_reports/post_report_response.dart';
 
 import '../../../common_components/services/api_requests.dart';
 import '../../../utils/SharePref.dart';

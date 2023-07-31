@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:jatya_patient_mobile/common_components/widgets/link_text.dart';
+import 'package:clinic_app/common_components/widgets/link_text.dart';
 
 import '../../../common_components/widgets/label.dart';
 import '../../../common_components/widgets/map_icon.dart';

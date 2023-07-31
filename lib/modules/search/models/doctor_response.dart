@@ -1,6 +1,6 @@
 import 'dart:convert';
 
-import 'package:jatya_patient_mobile/modules/MyPrescription/models/prescription_deatils/prescription_details.dart';
+import 'package:clinic_app/modules/MyPrescription/models/prescription_deatils/prescription_details.dart';
 
 GetDoctorsResponse getDoctorsResponseFromJson(String str) =>
     GetDoctorsResponse.fromJson(json.decode(str));

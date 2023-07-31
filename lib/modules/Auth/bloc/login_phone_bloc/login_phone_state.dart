@@ -1,4 +1,4 @@
-import 'package:jatya_patient_mobile/modules/Auth/model/login/login_response_model.dart';
+import 'package:clinic_app/modules/Auth/model/login/login_response_model.dart';
 import '../../../../common_components/services/form_submission_status.dart';
 
 class LoginPhoneState {

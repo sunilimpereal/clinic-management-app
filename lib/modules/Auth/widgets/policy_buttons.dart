@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:jatya_patient_mobile/common_components/app_info_screen.dart';
-import 'package:jatya_patient_mobile/common_components/widgets/policy_dialog.dart';
-import 'package:jatya_patient_mobile/modules/Auth/widgets/terms_and_copyright_widget.dart';
+import 'package:clinic_app/common_components/app_info_screen.dart';
+import 'package:clinic_app/common_components/widgets/policy_dialog.dart';
+import 'package:clinic_app/modules/Auth/widgets/terms_and_copyright_widget.dart';
 
 class PolicyButtons extends StatelessWidget {
   const PolicyButtons({super.key});

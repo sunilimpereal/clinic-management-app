@@ -3,9 +3,9 @@ import 'dart:developer';
 
 import 'package:flutter/foundation.dart';
 import 'package:http/http.dart' as http;
-import 'package:jatya_patient_mobile/modules/MyJatya/models/cancel_appointment_model.dart';
-import 'package:jatya_patient_mobile/modules/MyJatya/models/upcoming_appointment_model.dart';
-import 'package:jatya_patient_mobile/utils/constants/api_konstants.dart';
+import 'package:clinic_app/modules/MyJatya/models/cancel_appointment_model.dart';
+import 'package:clinic_app/modules/MyJatya/models/upcoming_appointment_model.dart';
+import 'package:clinic_app/utils/constants/api_konstants.dart';
 
 class AppointmentRepo {
   // get all Appointments

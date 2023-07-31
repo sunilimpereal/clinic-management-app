@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:jatya_patient_mobile/modules/MyPrescription/screens/latest_prescription_tabs/prescription.dart';
+import 'package:clinic_app/modules/MyPrescription/screens/latest_prescription_tabs/prescription.dart';
 
 class VitalsCard extends StatelessWidget {
   final String vitalName;

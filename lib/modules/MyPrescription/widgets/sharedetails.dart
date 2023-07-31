@@ -2,16 +2,16 @@ import 'dart:developer';
 
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
-import 'package:jatya_patient_mobile/common_components/widgets/link_text.dart';
-import 'package:jatya_patient_mobile/modules/MyPrescription/bloc/get_all_doctors_bloc.dart';
-import 'package:jatya_patient_mobile/modules/MyPrescription/models/latest_prescription.dart';
-import 'package:jatya_patient_mobile/modules/MyPrescription/models/share_prescription_request_model.dart';
-import 'package:jatya_patient_mobile/modules/MyPrescription/services/prescription_services.dart';
-import 'package:jatya_patient_mobile/modules/MyPrescription/widgets/doctor_card.dart';
-import 'package:jatya_patient_mobile/modules/MyPrescription/widgets/prescription_card.dart';
+import 'package:clinic_app/common_components/widgets/link_text.dart';
+import 'package:clinic_app/modules/MyPrescription/bloc/get_all_doctors_bloc.dart';
+import 'package:clinic_app/modules/MyPrescription/models/latest_prescription.dart';
+import 'package:clinic_app/modules/MyPrescription/models/share_prescription_request_model.dart';
+import 'package:clinic_app/modules/MyPrescription/services/prescription_services.dart';
+import 'package:clinic_app/modules/MyPrescription/widgets/doctor_card.dart';
+import 'package:clinic_app/modules/MyPrescription/widgets/prescription_card.dart';
 
-import 'package:jatya_patient_mobile/utils/SharePref.dart';
-import 'package:jatya_patient_mobile/utils/helper/helper.dart';
+import 'package:clinic_app/utils/SharePref.dart';
+import 'package:clinic_app/utils/helper/helper.dart';
 
 import '../../../utils/constants/color_konstants.dart';
 import '../models/revoke_prescription_request_model.dart';

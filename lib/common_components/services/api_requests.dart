@@ -1,7 +1,7 @@
 import 'dart:developer';
 
 import 'package:http/http.dart' as http;
-import 'package:jatya_patient_mobile/modules/Auth/services/auth_repository.dart';
+import 'package:clinic_app/modules/Auth/services/auth_repository.dart';
 
 import '../../utils/SharePref.dart';
 import '../model/errors/error_response.dart';

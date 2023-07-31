@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
-import 'package:jatya_patient_mobile/common_components/widgets/error_alert_dialog.dart';
-import 'package:jatya_patient_mobile/common_components/widgets/password_textfield.dart';
-import 'package:jatya_patient_mobile/modules/Auth/model/forgot_password/verify_forgot_password_request.dart';
-import 'package:jatya_patient_mobile/modules/Auth/services/auth_repository.dart';
-import 'package:jatya_patient_mobile/modules/Auth/services/validators.dart';
+import 'package:clinic_app/common_components/widgets/error_alert_dialog.dart';
+import 'package:clinic_app/common_components/widgets/password_textfield.dart';
+import 'package:clinic_app/modules/Auth/model/forgot_password/verify_forgot_password_request.dart';
+import 'package:clinic_app/modules/Auth/services/auth_repository.dart';
+import 'package:clinic_app/modules/Auth/services/validators.dart';
 
 import '../../../common_components/widgets/popup_widget.dart';
 import 'login_screen.dart';

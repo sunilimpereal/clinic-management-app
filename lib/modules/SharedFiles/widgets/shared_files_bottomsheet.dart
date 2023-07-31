@@ -2,25 +2,25 @@
 
 import 'package:flutter/material.dart';
 import 'package:fluttertoast/fluttertoast.dart';
-import 'package:jatya_patient_mobile/common_components/services/file_download_handler.dart';
+import 'package:clinic_app/common_components/services/file_download_handler.dart';
 import 'dart:ui';
-import 'package:jatya_patient_mobile/common_components/widgets/app_alert_dialog.dart';
-import 'package:jatya_patient_mobile/modules/Mediline/models/revoke_appointment_request.dart';
-import 'package:jatya_patient_mobile/modules/Mediline/screens/my_mediline_screen.dart';
-import 'package:jatya_patient_mobile/modules/Mediline/services/mediline_repository.dart';
-import 'package:jatya_patient_mobile/modules/Mediline/widgets/mediline_card.dart';
-import 'package:jatya_patient_mobile/modules/MyPrescription/models/latest_prescription.dart';
-import 'package:jatya_patient_mobile/modules/MyPrescription/models/revoke_prescription_request_model.dart';
-import 'package:jatya_patient_mobile/modules/MyPrescription/screens/prescription_detail_tabview.dart';
-import 'package:jatya_patient_mobile/modules/MyPrescription/services/prescription_services.dart';
-import 'package:jatya_patient_mobile/modules/Reports/models/get_recent_report_response_model.dart';
-import 'package:jatya_patient_mobile/modules/Reports/models/revoke_report_request_model.dart';
-import 'package:jatya_patient_mobile/modules/Reports/screens/latest_reports_tabs/report.dart';
-import 'package:jatya_patient_mobile/modules/Reports/services/recent_reports_repo.dart';
-import 'package:jatya_patient_mobile/modules/SharedFiles/models/sharedfiles_model.dart';
-import 'package:jatya_patient_mobile/modules/SharedFiles/services/sharedfiles_repo.dart';
-import 'package:jatya_patient_mobile/utils/SharePref.dart';
-import 'package:jatya_patient_mobile/utils/constants/color_konstants.dart';
+import 'package:clinic_app/common_components/widgets/app_alert_dialog.dart';
+import 'package:clinic_app/modules/Mediline/models/revoke_appointment_request.dart';
+import 'package:clinic_app/modules/Mediline/screens/my_mediline_screen.dart';
+import 'package:clinic_app/modules/Mediline/services/mediline_repository.dart';
+import 'package:clinic_app/modules/Mediline/widgets/mediline_card.dart';
+import 'package:clinic_app/modules/MyPrescription/models/latest_prescription.dart';
+import 'package:clinic_app/modules/MyPrescription/models/revoke_prescription_request_model.dart';
+import 'package:clinic_app/modules/MyPrescription/screens/prescription_detail_tabview.dart';
+import 'package:clinic_app/modules/MyPrescription/services/prescription_services.dart';
+import 'package:clinic_app/modules/Reports/models/get_recent_report_response_model.dart';
+import 'package:clinic_app/modules/Reports/models/revoke_report_request_model.dart';
+import 'package:clinic_app/modules/Reports/screens/latest_reports_tabs/report.dart';
+import 'package:clinic_app/modules/Reports/services/recent_reports_repo.dart';
+import 'package:clinic_app/modules/SharedFiles/models/sharedfiles_model.dart';
+import 'package:clinic_app/modules/SharedFiles/services/sharedfiles_repo.dart';
+import 'package:clinic_app/utils/SharePref.dart';
+import 'package:clinic_app/utils/constants/color_konstants.dart';
 import 'package:url_launcher/url_launcher.dart';
 
 class ShareFilesBottomSheet extends StatelessWidget {

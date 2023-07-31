@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:jatya_patient_mobile/modules/NewAppointment/widgets/slider.dart';
+import 'package:clinic_app/modules/NewAppointment/widgets/slider.dart';
 
 class DistanceSlider extends StatelessWidget {
   final String title;

@@ -1,20 +1,20 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
-import 'package:jatya_patient_mobile/common_components/widgets/common_drawer.dart';
-import 'package:jatya_patient_mobile/modules/MyPrescription/models/prescription_deatils/prescription_details.dart';
-import 'package:jatya_patient_mobile/modules/MyPrescription/screens/latest_prescription_tabs/about_the_clinic.dart';
-import 'package:jatya_patient_mobile/modules/MyPrescription/screens/latest_prescription_tabs/doctors_profile.dart';
-import 'package:jatya_patient_mobile/modules/search/bloc/search_bloc.dart';
-import 'package:jatya_patient_mobile/modules/search/bloc/search_event.dart';
-import 'package:jatya_patient_mobile/modules/search/bloc/search_state.dart';
-import 'package:jatya_patient_mobile/modules/search/models/clinic_response.dart';
-import 'package:jatya_patient_mobile/modules/search/models/doctor_response.dart';
-import 'package:jatya_patient_mobile/modules/search/models/medicine_response.dart';
-import 'package:jatya_patient_mobile/modules/search/screens/medicine_info_screen.dart';
-import 'package:jatya_patient_mobile/modules/search/services/debouncer.dart';
-import 'package:jatya_patient_mobile/utils/constants/color_konstants.dart';
-import 'package:jatya_patient_mobile/utils/constants/image_konstants.dart';
-import 'package:jatya_patient_mobile/utils/enums.dart';
+import 'package:clinic_app/common_components/widgets/common_drawer.dart';
+import 'package:clinic_app/modules/MyPrescription/models/prescription_deatils/prescription_details.dart';
+import 'package:clinic_app/modules/MyPrescription/screens/latest_prescription_tabs/about_the_clinic.dart';
+import 'package:clinic_app/modules/MyPrescription/screens/latest_prescription_tabs/doctors_profile.dart';
+import 'package:clinic_app/modules/search/bloc/search_bloc.dart';
+import 'package:clinic_app/modules/search/bloc/search_event.dart';
+import 'package:clinic_app/modules/search/bloc/search_state.dart';
+import 'package:clinic_app/modules/search/models/clinic_response.dart';
+import 'package:clinic_app/modules/search/models/doctor_response.dart';
+import 'package:clinic_app/modules/search/models/medicine_response.dart';
+import 'package:clinic_app/modules/search/screens/medicine_info_screen.dart';
+import 'package:clinic_app/modules/search/services/debouncer.dart';
+import 'package:clinic_app/utils/constants/color_konstants.dart';
+import 'package:clinic_app/utils/constants/image_konstants.dart';
+import 'package:clinic_app/utils/enums.dart';
 
 class SearchScreen extends StatefulWidget {
   const SearchScreen({super.key});

@@ -2,11 +2,11 @@ import 'dart:developer';
 
 import 'package:flutter/material.dart';
 import 'dart:ui';
-import 'package:jatya_patient_mobile/modules/Auth/services/validators.dart';
-import 'package:jatya_patient_mobile/modules/Auth/widgets/custom_elevated_button.dart';
-import 'package:jatya_patient_mobile/modules/Auth/widgets/input_text_field.dart';
-import 'package:jatya_patient_mobile/modules/Faq/widgets/faq_success_dialog_box.dart';
-import 'package:jatya_patient_mobile/utils/SharePref.dart';
+import 'package:clinic_app/modules/Auth/services/validators.dart';
+import 'package:clinic_app/modules/Auth/widgets/custom_elevated_button.dart';
+import 'package:clinic_app/modules/Auth/widgets/input_text_field.dart';
+import 'package:clinic_app/modules/Faq/widgets/faq_success_dialog_box.dart';
+import 'package:clinic_app/utils/SharePref.dart';
 import 'package:url_launcher/url_launcher.dart';
 
 class FAQDialog extends StatefulWidget {

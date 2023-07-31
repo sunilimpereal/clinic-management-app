@@ -1,10 +1,10 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
-import 'package:jatya_patient_mobile/common_components/model/errors/clinic_working_hours_model.dart';
-import 'package:jatya_patient_mobile/common_components/widgets/clinic_working_hours_widget.dart';
-import 'package:jatya_patient_mobile/modules/MyPrescription/models/prescription_deatils/prescription_details.dart';
-import 'package:jatya_patient_mobile/utils/constants/color_konstants.dart';
-import 'package:jatya_patient_mobile/utils/constants/image_konstants.dart';
+import 'package:clinic_app/common_components/model/errors/clinic_working_hours_model.dart';
+import 'package:clinic_app/common_components/widgets/clinic_working_hours_widget.dart';
+import 'package:clinic_app/modules/MyPrescription/models/prescription_deatils/prescription_details.dart';
+import 'package:clinic_app/utils/constants/color_konstants.dart';
+import 'package:clinic_app/utils/constants/image_konstants.dart';
 import 'package:url_launcher/url_launcher_string.dart';
 import '../../../../common_components/widgets/common_drawer.dart';
 import '../../../../utils/helper/map_utils.dart';

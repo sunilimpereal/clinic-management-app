@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
-import 'package:jatya_patient_mobile/modules/Profile/bloc/upload_profile_pic_bloc/upload_profile_pic_bloc.dart';
-import 'package:jatya_patient_mobile/modules/Profile/widgets/image_selector_tile_widget.dart';
-import 'package:jatya_patient_mobile/utils/SharePref.dart';
-import 'package:jatya_patient_mobile/utils/helper/helper.dart';
+import 'package:clinic_app/modules/Profile/bloc/upload_profile_pic_bloc/upload_profile_pic_bloc.dart';
+import 'package:clinic_app/modules/Profile/widgets/image_selector_tile_widget.dart';
+import 'package:clinic_app/utils/SharePref.dart';
+import 'package:clinic_app/utils/helper/helper.dart';
 
 import '../../../utils/constants/color_konstants.dart';
 import '../../../utils/constants/image_konstants.dart';

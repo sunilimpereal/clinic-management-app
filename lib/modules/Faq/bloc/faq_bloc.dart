@@ -3,8 +3,8 @@ import 'dart:developer';
 
 import 'package:equatable/equatable.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
-import 'package:jatya_patient_mobile/modules/Faq/models/faq_model.dart';
-import 'package:jatya_patient_mobile/modules/Faq/services/faq_services.dart';
+import 'package:clinic_app/modules/Faq/models/faq_model.dart';
+import 'package:clinic_app/modules/Faq/services/faq_services.dart';
 
 part 'faq_event.dart';
 part 'faq_state.dart';

@@ -1,10 +1,10 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
-import 'package:jatya_patient_mobile/common_components/widgets/common_drawer.dart';
-import 'package:jatya_patient_mobile/modules/MyPrescription/bloc/myPrescriptionBloc/my_prescription_bloc.dart';
-import 'package:jatya_patient_mobile/modules/MyPrescription/models/get_all_clinic/get_all_clinic_response.dart';
-import 'package:jatya_patient_mobile/modules/MyPrescription/models/latest_prescription.dart';
-import 'package:jatya_patient_mobile/modules/MyPrescription/widgets/my_prescription_tabview.dart';
+import 'package:clinic_app/common_components/widgets/common_drawer.dart';
+import 'package:clinic_app/modules/MyPrescription/bloc/myPrescriptionBloc/my_prescription_bloc.dart';
+import 'package:clinic_app/modules/MyPrescription/models/get_all_clinic/get_all_clinic_response.dart';
+import 'package:clinic_app/modules/MyPrescription/models/latest_prescription.dart';
+import 'package:clinic_app/modules/MyPrescription/widgets/my_prescription_tabview.dart';
 
 class MyPrescriptionScreen extends StatefulWidget {
   //final List<GetAllClinicData>? clinicLIstData;

@@ -2,11 +2,11 @@ import 'dart:developer';
 
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
-import 'package:jatya_patient_mobile/common_components/widgets/link_text.dart';
-import 'package:jatya_patient_mobile/modules/Mediline/bloc/get_doctors_bloc.dart';
-import 'package:jatya_patient_mobile/modules/Mediline/widgets/share_with_clinic_card.dart';
-import 'package:jatya_patient_mobile/modules/Mediline/widgets/share_with_doctor_card.dart';
-import 'package:jatya_patient_mobile/modules/Mediline/widgets/single_mediline_card.dart';
+import 'package:clinic_app/common_components/widgets/link_text.dart';
+import 'package:clinic_app/modules/Mediline/bloc/get_doctors_bloc.dart';
+import 'package:clinic_app/modules/Mediline/widgets/share_with_clinic_card.dart';
+import 'package:clinic_app/modules/Mediline/widgets/share_with_doctor_card.dart';
+import 'package:clinic_app/modules/Mediline/widgets/single_mediline_card.dart';
 
 import '../../../utils/helper/helper.dart';
 import '../bloc/mediline_bloc.dart';

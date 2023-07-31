@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
-import 'package:jatya_patient_mobile/utils/constants/color_konstants.dart';
+import 'package:clinic_app/utils/constants/color_konstants.dart';
 import '../../../../common_components/widgets/date_picker.dart';
 import '../../../../common_components/widgets/dropdown.dart';
 import '../../../Auth/services/validators.dart';

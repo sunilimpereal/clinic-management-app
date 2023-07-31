@@ -1,6 +1,6 @@
 import 'dart:convert';
 
-import 'package:jatya_patient_mobile/modules/Auth/model/login/login_response_model.dart';
+import 'package:clinic_app/modules/Auth/model/login/login_response_model.dart';
 
 SocialLoginResponseModel socialLoginResponseModelFromJson(String str) => SocialLoginResponseModel.fromJson(json.decode(str));
 

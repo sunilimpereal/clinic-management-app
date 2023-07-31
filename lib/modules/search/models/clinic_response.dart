@@ -1,6 +1,6 @@
 
 import 'dart:convert';
-import 'package:jatya_patient_mobile/common_components/model/errors/clinic_working_hours_model.dart';
+import 'package:clinic_app/common_components/model/errors/clinic_working_hours_model.dart';
 
 
 GetClinicResponse getClinicResponseFromJson(String str) =>

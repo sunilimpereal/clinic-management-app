@@ -5,7 +5,7 @@
 import 'dart:convert';
 
 import '../../NewAppointment/model/get_clinic_detail_response.dart';
-import 'package:jatya_patient_mobile/common_components/model/errors/clinic_working_hours_model.dart';
+import 'package:clinic_app/common_components/model/errors/clinic_working_hours_model.dart';
 
 GetAllClinicResopnse getAllClinicResopnseFromJson(String str) => GetAllClinicResopnse.fromJson(json.decode(str));
 

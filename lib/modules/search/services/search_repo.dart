@@ -3,10 +3,10 @@ import 'dart:developer';
 
 import 'package:flutter/foundation.dart';
 import 'package:http/http.dart' as http;
-import 'package:jatya_patient_mobile/modules/search/models/clinic_response.dart';
-import 'package:jatya_patient_mobile/modules/search/models/doctor_response.dart';
-import 'package:jatya_patient_mobile/modules/search/models/medicine_response.dart';
-import 'package:jatya_patient_mobile/utils/SharePref.dart';
+import 'package:clinic_app/modules/search/models/clinic_response.dart';
+import 'package:clinic_app/modules/search/models/doctor_response.dart';
+import 'package:clinic_app/modules/search/models/medicine_response.dart';
+import 'package:clinic_app/utils/SharePref.dart';
 
 class SearchServices {
   // Future<GetDoctorsResponse?> getDoctorsViaName(String name) async {

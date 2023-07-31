@@ -3,9 +3,9 @@ import 'dart:io';
 
 import 'package:equatable/equatable.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
-import 'package:jatya_patient_mobile/modules/Profile/models/prev_reports/post_report_request.dart';
-import 'package:jatya_patient_mobile/modules/Profile/services/previous_report_repository.dart';
-import 'package:jatya_patient_mobile/utils/SharePref.dart';
+import 'package:clinic_app/modules/Profile/models/prev_reports/post_report_request.dart';
+import 'package:clinic_app/modules/Profile/services/previous_report_repository.dart';
+import 'package:clinic_app/utils/SharePref.dart';
 
 import '../../../../common_components/widgets/dropdown.dart';
 import '../../models/prev_reports/get_previous_reports_response.dart';

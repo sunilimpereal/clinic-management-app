@@ -1,10 +1,10 @@
 import 'dart:developer';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:equatable/equatable.dart';
-import 'package:jatya_patient_mobile/common_components/services/form_submission_status.dart';
-import 'package:jatya_patient_mobile/common_components/widgets/dropdown.dart';
-import 'package:jatya_patient_mobile/modules/NewAppointment/model/appointment/get_slots_response.dart';
-import 'package:jatya_patient_mobile/modules/NewAppointment/services/appointment_repository.dart';
+import 'package:clinic_app/common_components/services/form_submission_status.dart';
+import 'package:clinic_app/common_components/widgets/dropdown.dart';
+import 'package:clinic_app/modules/NewAppointment/model/appointment/get_slots_response.dart';
+import 'package:clinic_app/modules/NewAppointment/services/appointment_repository.dart';
 
 import '../model/doctors_via_location_response.dart';
 part 'appointment_state.dart';

@@ -1,19 +1,19 @@
 import 'dart:developer';
 
 import 'package:flutter/foundation.dart';
-import 'package:jatya_patient_mobile/modules/Auth/model/forgot_password/forgot_password_request_model.dart';
-import 'package:jatya_patient_mobile/modules/Auth/model/forgot_password/forgot_password_response.dart';
-import 'package:jatya_patient_mobile/modules/Auth/model/forgot_password/verify_forgot_password_request.dart';
-import 'package:jatya_patient_mobile/modules/Auth/model/forgot_password/verify_forgot_password_response.dart';
-import 'package:jatya_patient_mobile/modules/Auth/model/login/login_phone_request_model.dart';
-import 'package:jatya_patient_mobile/modules/Auth/model/login/login_request_model.dart';
-import 'package:jatya_patient_mobile/modules/Auth/model/login/login_response_model.dart';
-import 'package:jatya_patient_mobile/modules/Auth/model/login/refresh_login_response.dart';
-import 'package:jatya_patient_mobile/modules/Auth/model/login/refresh_request_model.dart';
-import 'package:jatya_patient_mobile/modules/Auth/model/register/register_response_model.dart';
-import 'package:jatya_patient_mobile/utils/SharePref.dart';
-import 'package:jatya_patient_mobile/utils/constants/api_konstants.dart';
-import 'package:jatya_patient_mobile/utils/constants/image_konstants.dart';
+import 'package:clinic_app/modules/Auth/model/forgot_password/forgot_password_request_model.dart';
+import 'package:clinic_app/modules/Auth/model/forgot_password/forgot_password_response.dart';
+import 'package:clinic_app/modules/Auth/model/forgot_password/verify_forgot_password_request.dart';
+import 'package:clinic_app/modules/Auth/model/forgot_password/verify_forgot_password_response.dart';
+import 'package:clinic_app/modules/Auth/model/login/login_phone_request_model.dart';
+import 'package:clinic_app/modules/Auth/model/login/login_request_model.dart';
+import 'package:clinic_app/modules/Auth/model/login/login_response_model.dart';
+import 'package:clinic_app/modules/Auth/model/login/refresh_login_response.dart';
+import 'package:clinic_app/modules/Auth/model/login/refresh_request_model.dart';
+import 'package:clinic_app/modules/Auth/model/register/register_response_model.dart';
+import 'package:clinic_app/utils/SharePref.dart';
+import 'package:clinic_app/utils/constants/api_konstants.dart';
+import 'package:clinic_app/utils/constants/image_konstants.dart';
 
 import '../../../common_components/services/api_requests.dart';
 import '../model/login/login_phone_response_model.dart';

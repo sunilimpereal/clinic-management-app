@@ -1,7 +1,7 @@
 
 import 'package:flutter/material.dart';
 import 'package:flutter_svg/flutter_svg.dart';
-import 'package:jatya_patient_mobile/modules/Reports/screens/neurowell._tab.dart';
+import 'package:clinic_app/modules/Reports/screens/neurowell._tab.dart';
 
 import '../../../utils/constants/image_konstants.dart';
 

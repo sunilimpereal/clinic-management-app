@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
-import 'package:jatya_patient_mobile/modules/SharedFiles/models/sharedfiles_model.dart';
-import 'package:jatya_patient_mobile/modules/SharedFiles/widgets/sharedfiles_card.dart';
+import 'package:clinic_app/modules/SharedFiles/models/sharedfiles_model.dart';
+import 'package:clinic_app/modules/SharedFiles/widgets/sharedfiles_card.dart';
 
 import '../../common_components/widgets/common_drawer.dart';
 import '../../utils/constants/color_konstants.dart';

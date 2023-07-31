@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
-import 'package:jatya_patient_mobile/modules/MyPrescription/models/latest_prescription.dart';
-import 'package:jatya_patient_mobile/modules/MyPrescription/screens/My_Prescription_Clinic_Tabs/all_clinics_tab.dart';
-import 'package:jatya_patient_mobile/modules/MyPrescription/widgets/search_prescription.dart';
-import 'package:jatya_patient_mobile/modules/NewAppointment/model/get_clinic_detail_response.dart';
+import 'package:clinic_app/modules/MyPrescription/models/latest_prescription.dart';
+import 'package:clinic_app/modules/MyPrescription/screens/My_Prescription_Clinic_Tabs/all_clinics_tab.dart';
+import 'package:clinic_app/modules/MyPrescription/widgets/search_prescription.dart';
+import 'package:clinic_app/modules/NewAppointment/model/get_clinic_detail_response.dart';
 
 class PrescriptionTabView extends StatefulWidget {
   final List<GetAllPrescriptionData> data;

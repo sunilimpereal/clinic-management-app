@@ -2,12 +2,12 @@ import 'dart:convert';
 import 'dart:io';
 
 import 'package:flutter/material.dart';
-import 'package:jatya_patient_mobile/modules/MyJatya/widgets/upcoming_appointment_recipt.dart';
-import 'package:jatya_patient_mobile/services/health_service.dart';
-import 'package:jatya_patient_mobile/services/token_service.dart';
-import 'package:jatya_patient_mobile/utils/SharePref.dart';
-import 'package:jatya_patient_mobile/utils/constants/color_konstants.dart';
-import 'package:jatya_patient_mobile/utils/helper/helper.dart';
+import 'package:clinic_app/modules/MyJatya/widgets/upcoming_appointment_recipt.dart';
+import 'package:clinic_app/services/health_service.dart';
+import 'package:clinic_app/services/token_service.dart';
+import 'package:clinic_app/utils/SharePref.dart';
+import 'package:clinic_app/utils/constants/color_konstants.dart';
+import 'package:clinic_app/utils/helper/helper.dart';
 
 class SyncTile extends StatefulWidget {
   const SyncTile({super.key, this.onData});

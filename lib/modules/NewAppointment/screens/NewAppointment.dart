@@ -1,12 +1,12 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
-import 'package:jatya_patient_mobile/common_components/services/form_submission_status.dart';
-import 'package:jatya_patient_mobile/common_components/widgets/common_drawer.dart';
-import 'package:jatya_patient_mobile/common_components/widgets/error_alert_dialog.dart';
-import 'package:jatya_patient_mobile/modules/NewAppointment/bloc/appointment_bloc.dart';
-import 'package:jatya_patient_mobile/common_components/widgets/date_picker.dart';
-import 'package:jatya_patient_mobile/common_components/widgets/dropdown.dart';
-import 'package:jatya_patient_mobile/modules/NewAppointment/screens/new_appointment_result.dart';
+import 'package:clinic_app/common_components/services/form_submission_status.dart';
+import 'package:clinic_app/common_components/widgets/common_drawer.dart';
+import 'package:clinic_app/common_components/widgets/error_alert_dialog.dart';
+import 'package:clinic_app/modules/NewAppointment/bloc/appointment_bloc.dart';
+import 'package:clinic_app/common_components/widgets/date_picker.dart';
+import 'package:clinic_app/common_components/widgets/dropdown.dart';
+import 'package:clinic_app/modules/NewAppointment/screens/new_appointment_result.dart';
 
 import '../../../common_components/widgets/popup_widget.dart';
 import '../widgets/distance_slider.dart';

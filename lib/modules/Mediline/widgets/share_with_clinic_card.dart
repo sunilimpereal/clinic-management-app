@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
-import 'package:jatya_patient_mobile/modules/NewAppointment/model/get_clinic_detail_response.dart';
-import 'package:jatya_patient_mobile/modules/NewAppointment/screens/payment_screen.dart';
-import 'package:jatya_patient_mobile/utils/constants/color_konstants.dart';
-import 'package:jatya_patient_mobile/utils/constants/image_konstants.dart';
+import 'package:clinic_app/modules/NewAppointment/model/get_clinic_detail_response.dart';
+import 'package:clinic_app/modules/NewAppointment/screens/payment_screen.dart';
+import 'package:clinic_app/utils/constants/color_konstants.dart';
+import 'package:clinic_app/utils/constants/image_konstants.dart';
 
 import '../models/get_appointmens_response.dart';
 

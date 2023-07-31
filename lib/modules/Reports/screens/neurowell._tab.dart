@@ -1,5 +1,5 @@
 import 'package:flutter/cupertino.dart';
-import 'package:jatya_patient_mobile/modules/Reports/widgets/neurowell_list_item.dart';
+import 'package:clinic_app/modules/Reports/widgets/neurowell_list_item.dart';
 
 class NeurowellModel {
   String? title;

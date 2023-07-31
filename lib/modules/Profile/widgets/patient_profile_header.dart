@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:jatya_patient_mobile/modules/Profile/widgets/patient_circular_profile_pic.dart';
-import 'package:jatya_patient_mobile/utils/SharePref.dart';
+import 'package:clinic_app/modules/Profile/widgets/patient_circular_profile_pic.dart';
+import 'package:clinic_app/utils/SharePref.dart';
 
 import '../models/patient/get_patient_details_response.dart';
 

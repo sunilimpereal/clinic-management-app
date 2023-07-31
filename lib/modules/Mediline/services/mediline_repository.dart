@@ -1,12 +1,12 @@
 import 'dart:developer';
 
 import 'package:flutter/foundation.dart';
-import 'package:jatya_patient_mobile/modules/Mediline/models/get_appointmens_response.dart';
-import 'package:jatya_patient_mobile/modules/Mediline/models/revoke_appointment_request.dart';
-import 'package:jatya_patient_mobile/modules/Mediline/models/share_appointment_request.dart';
-import 'package:jatya_patient_mobile/modules/Mediline/models/share_mediline_request.dart';
-import 'package:jatya_patient_mobile/modules/Mediline/models/share_mediline_response.dart';
-import 'package:jatya_patient_mobile/modules/search/models/doctor_response.dart';
+import 'package:clinic_app/modules/Mediline/models/get_appointmens_response.dart';
+import 'package:clinic_app/modules/Mediline/models/revoke_appointment_request.dart';
+import 'package:clinic_app/modules/Mediline/models/share_appointment_request.dart';
+import 'package:clinic_app/modules/Mediline/models/share_mediline_request.dart';
+import 'package:clinic_app/modules/Mediline/models/share_mediline_response.dart';
+import 'package:clinic_app/modules/search/models/doctor_response.dart';
 
 import '../../../common_components/services/api_requests.dart';
 import '../../../utils/SharePref.dart';

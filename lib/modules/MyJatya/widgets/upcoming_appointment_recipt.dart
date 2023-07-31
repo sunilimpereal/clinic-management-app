@@ -3,17 +3,17 @@ import 'dart:developer';
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:intl/intl.dart';
-import 'package:jatya_patient_mobile/common_components/widgets/label.dart';
-import 'package:jatya_patient_mobile/common_components/widgets/map_icon.dart';
-import 'package:jatya_patient_mobile/common_components/widgets/qr_code_placeholder.dart';
-import 'package:jatya_patient_mobile/common_components/widgets/sync_tile.dart';
-import 'package:jatya_patient_mobile/modules/Mediline/screens/my_mediline_screen.dart';
-import 'package:jatya_patient_mobile/modules/MyJatya/bloc/upcoming_apppointment/upcoming_appointmen_bloc.dart';
-import 'package:jatya_patient_mobile/modules/MyJatya/models/upcoming_appointment_model.dart';
-import 'package:jatya_patient_mobile/modules/MyJatya/screens/MyJatya.dart';
-import 'package:jatya_patient_mobile/modules/MyJatya/widgets/watch_data_preview.dart';
-import 'package:jatya_patient_mobile/modules/NewAppointment/screens/payment_screen.dart';
-import 'package:jatya_patient_mobile/utils/constants/color_konstants.dart';
+import 'package:clinic_app/common_components/widgets/label.dart';
+import 'package:clinic_app/common_components/widgets/map_icon.dart';
+import 'package:clinic_app/common_components/widgets/qr_code_placeholder.dart';
+import 'package:clinic_app/common_components/widgets/sync_tile.dart';
+import 'package:clinic_app/modules/Mediline/screens/my_mediline_screen.dart';
+import 'package:clinic_app/modules/MyJatya/bloc/upcoming_apppointment/upcoming_appointmen_bloc.dart';
+import 'package:clinic_app/modules/MyJatya/models/upcoming_appointment_model.dart';
+import 'package:clinic_app/modules/MyJatya/screens/MyJatya.dart';
+import 'package:clinic_app/modules/MyJatya/widgets/watch_data_preview.dart';
+import 'package:clinic_app/modules/NewAppointment/screens/payment_screen.dart';
+import 'package:clinic_app/utils/constants/color_konstants.dart';
 
 class UpcomingAppointmentRecipt extends StatefulWidget {
   final GetAllAppointmentsResponse getAllAppointment;

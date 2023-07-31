@@ -3,7 +3,7 @@ import 'dart:io';
 
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:image_picker/image_picker.dart';
-import 'package:jatya_patient_mobile/utils/SharePref.dart';
+import 'package:clinic_app/utils/SharePref.dart';
 
 import '../../services/upload_profile_repository.dart';
 part 'upload_profile_pic_event.dart';

@@ -1,4 +1,4 @@
-import 'package:jatya_patient_mobile/utils/enums.dart';
+import 'package:clinic_app/utils/enums.dart';
 
 class SearchItemModel {
   final String id;

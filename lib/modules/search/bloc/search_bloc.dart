@@ -1,7 +1,7 @@
 import 'package:flutter_bloc/flutter_bloc.dart';
-import 'package:jatya_patient_mobile/modules/search/bloc/search_event.dart';
-import 'package:jatya_patient_mobile/modules/search/bloc/search_state.dart';
-import 'package:jatya_patient_mobile/modules/search/services/search_repo.dart';
+import 'package:clinic_app/modules/search/bloc/search_event.dart';
+import 'package:clinic_app/modules/search/bloc/search_state.dart';
+import 'package:clinic_app/modules/search/services/search_repo.dart';
 
 class SearchBloc extends Bloc<SearchEvent, SearchState> {
   SearchBloc() : super(SearchInitialState()) {

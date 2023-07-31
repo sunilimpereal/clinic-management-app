@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:jatya_patient_mobile/common_components/widgets/app_alert_dialog.dart';
+import 'package:clinic_app/common_components/widgets/app_alert_dialog.dart';
 
 class StartConsulationAlertDialog extends StatelessWidget {
   const StartConsulationAlertDialog({super.key});

@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:jatya_patient_mobile/modules/Profile/widgets/checkBoxListTile.dart';
-import 'package:jatya_patient_mobile/utils/constants/color_konstants.dart';
+import 'package:clinic_app/modules/Profile/widgets/checkBoxListTile.dart';
+import 'package:clinic_app/utils/constants/color_konstants.dart';
 
 class ExpandableWidget extends StatefulWidget {
   final IconData icon;
